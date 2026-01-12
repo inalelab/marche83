@@ -1,1 +1,1597 @@
-"{\"data\": [{\"hoverinfo\": \"text\", \"hovertext\": [\"<b>Topic -1</b><br>Words: roues roues roues, kilomètres, frères, mélange, bastille\", \"<b>Topic -1</b><br>Words: prison, formation, liberté, chômage, mosaïque\", \"<b>Topic -1</b><br>Words: travail intérêt général, couleurs, val-fouré, dessin, art\", \"<b>Topic -1</b><br>Words: sonne bien français, nom sonne bien, été élue français, tôt équipe lève, julien sorel êtes\", \"<b>Topic -1</b><br>Words: cinéma, histoire polonais arméniens, regrette ici ara, ministre accueilli idée, réalité tiré leçon\", \"<b>Topic -1</b><br>Words: notion, acceptez, temps gouvernement, étrangers france, majorité français\", \"<b>Topic -1</b><br>Words: chapelle, communautaire, mensonges, père christian delorme, mémoire\", \"<b>Topic -1</b><br>Words: tours, smaïn smaïn smaïn, qualités, molière, louis\", \"<b>Topic -1</b><br>Words: dossier, million, nuit jour, passer veaux moutons, travailler envoyer argent\", \"<b>Topic -1</b><br>Words: petits frères, histoire france, plein plein plein, habite minguettes, intérim\", \"<b>Topic -1</b><br>Words: discrimination positive, amertume, fondateur, farida, fatima\", \"<b>Topic -1</b><br>Words: penser domaine économique, manifestation prête feuilleton, paris insensé démarche, versé pourtant sueur, prise conscience identitaire\", \"<b>Topic -1</b><br>Words: eau eau eau, musée, appelle beur, films, cinéaste\", \"<b>Topic -1</b><br>Words: face-à-face, secteurs, grévistes, région lyonnaise, hasard\", \"<b>Topic -1</b><br>Words: fadela amara, pute soumise, indigènes, grève faim, diversité\", \"<b>Topic -1</b><br>Words: islam, ramadan, pratique, religieux, palestiniens\", \"<b>Topic -1</b><br>Words: direction, face-à-face, talbots, grévistes, marche pacifique\", \"<b>Topic -1</b><br>Words: nokia, nicolas sarkozy, europe, 7, bourses\", \"<b>Topic -1</b><br>Words: mémoire, crimes racistes, égalité droits, martin luther king, non non\", \"<b>Topic -1</b><br>Words: etats-unis, francophonie, christiane taubira, liberté, frontal\", \"<b>Topic -1</b><br>Words: justice paix, marche dignité, verbier, crvi, populations issues immigration\", \"<b>Topic -1</b><br>Words: etats-unis, martin luther king, mémoire, blancs, liberté\", \"<b>Topic -1</b><br>Words: gilbert, gilles, mère, pen, non non\", \"<b>Topic -1</b><br>Words: euh, haine, non jeune non, jeune non jeune, bonjour\", \"<b>Topic -1</b><br>Words: boîte nuit, mali, mot beur, filles, afrique\", \"<b>Topic -1</b><br>Words: marque, procès, bonjour, papier, frère\", \"<b>Topic -1</b><br>Words: 17 octobre, mémoire, cheveux, luttes, fille\", \"<b>Topic -1</b><br>Words: 2005, téléphone, crimes racistes, sms, mort\", \"<b>Topic -1</b><br>Words: mort, martin luther king, documentaire, the, mémoire\", \"<b>Topic -1</b><br>Words: ro ro manie, manie ro ro, ro manie ro, mort, chanson\"], \"marker\": {\"color\": \"#E69F00\"}, \"name\": \"-1_mémoire_mort_bonjour_liberté\", \"orientation\": \"v\", \"visible\": true, \"x\": {\"dtype\": \"i2\", \"bdata\": \"vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH\"}, \"y\": {\"dtype\": \"f8\", \"bdata\": \"pPbxaqDwTkD5wRnZJYhSQJMkSZIkSVNAAAAAAAAAWUCrqqqqqqpKQAAAAAAAAFRADZkYrZI3U0AAAAAAAMBVQG2yySabbFFAAAAAAADgVUAAAAAAAABTQAAAAAAAAE5A1AjLPY2wTkABAAAAAABMQEpkGrabZVFAejJ+u9QTUUC4fMu3fMtFQEpH9gxEJVNAIA3SIA3mUUBLTy2s9BRTQAYs6eVPW1FAAVPNMXs3UkCyEzuxEztTQF67QAPyiFFABKHKYA+9S0CCuXZgrh1SQI7jOI7jOFBAxTQ10pq3UUDnJBAXao5RQOQ4juM4jk5A\"}, \"type\": \"bar\"}, {\"hoverinfo\": \"text\", \"hovertext\": [\"<b>Topic 0</b><br>Words: après-midi, kilomètres, place bastille, 100 000 personnes, 3 décembre paris\", \"<b>Topic 0</b><br>Words: convergence 84, mobylette, france mobilette avancer, roule nuit, étape\", \"<b>Topic 0</b><br>Words: salam salam salam, longue marche, 7 décembre prochain, division, convergence 84\", \"<b>Topic 0</b><br>Words: équation immigrés égale, jeunes beurs marchent, chômage thème immigration, français 100 000, immigrés égale insécurité\", \"<b>Topic 0</b><br>Words: 000 personnes rues, 100 000 personnes, soutien, faire marche, 17\", \"<b>Topic 0</b><br>Words: fois seconde génération, seconde génération manifeste, politique française petit, beurs quartier minguettes, française petit petit\", \"<b>Topic 0</b><br>Words: pied paris 100, enfants appelle beurs, 000 personnes triomphe, fils immigrés plupart, 83 patrick porte\", \"<b>Topic 0</b><br>Words: 100 000 personnes, jean-pierre raffarin reçoit, lambris, manifestation 100 000, reçu président\", \"<b>Topic 0</b><br>Words: réuni effectivement manifestation, kilomètres marche cas, rangs gonflent personnalités, réussi fur mesure, violents loupards kilomètre\", \"<b>Topic 0</b><br>Words: simplement excluent jeunes, signal fort plan, culturel france terre, musée immigration france, plan culturel france\", \"<b>Topic 0</b><br>Words: 100 000 personnes, opposent immigrés maîtresse, nucnuc trentaine origine, jean-marc nucnuc trentaine, immigrés maîtresse française\", \"<b>Topic 0</b><br>Words: marche passée clermont, étape, clermont oui mouvements, 1983 jeunes immigrés, oui mouvements partout\", \"<b>Topic 0</b><br>Words: racisme enfants été, victimes racisme enfants, long parcours marche, parcours marche appelle, été tués grandes\", \"<b>Topic 0</b><br>Words: 100 000 personnes, 32, élection, désordre, racisme voit aujourd'hui\", \"<b>Topic 0</b><br>Words: bordeaux, 100 000 personnes, 7 décembre prochain, charte, longue marche\", \"<b>Topic 0</b><br>Words: 100 000 personnes, kilomètres, françois mitterrand, marseille paris, 15 octobre 1983\", \"<b>Topic 0</b><br>Words: 15 octobre, 100 000 personnes, grenoble, elysée, habib ghandi\", \"<b>Topic 0</b><br>Words: 100 000 personnes, angela davis, marche dignité, 31 octobre barbès, beurs collectif femmes\", \"<b>Topic 0</b><br>Words: 3 décembre, symbolique, retrouvés 150 000, partis marseille jeunes, présent marseille lilian\", \"<b>Topic 0</b><br>Words: marseille arrivant aujourd'hui, 32 marseille arrivant, jeunes noirs pays, pays partis 32, immigrés français immigrés\", \"<b>Topic 0</b><br>Words: mois demi, marseille 15 octobre, étapes, étape, délégation\", \"<b>Topic 0</b><br>Words: égalité renommée marche, racisme égalité renommée, beurs marseille 15, point ailleurs marche, marche beurs marseille\", \"<b>Topic 0</b><br>Words: marche nationale, prépare, axes, villes france, 15 octobre\", \"<b>Topic 0</b><br>Words: paris 3 décembre, 100 000 personnes, marseille 15 octobre, étape, comités soutien\", \"<b>Topic 0</b><br>Words: marseille 15 octobre, étape, aujourd'hui nombre personnes, voit aujourd'hui nombre, message paix message\", \"<b>Topic 0</b><br>Words: 100 000 personnes, étape, strasbourg, elysée, kilomètres\", \"<b>Topic 0</b><br>Words: 40 ans marche, porte-parole marche 1983, suivi marche début, nord pied loin, quartiers nord pied\"], \"marker\": {\"color\": \"#56B4E9\"}, \"name\": \"0_100 000 personnes_étape_kilomètres_éta...\", \"orientation\": \"v\", \"visible\": \"legendonly\", \"x\": {\"dtype\": \"i2\", \"bdata\": \"vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH\"}, \"y\": {\"dtype\": \"f8\", \"bdata\": \"AwQGiU10NkAasKcXNS0WQCRJkiRJkhxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACRAYt0VKPQUEUAAAAAAAAAAAE422WSTTR5AAAAAAAAAGUBWVVVVVVUlQAAAAAAAAERAfBphuacR5j8AAAAAAAAwQESmYbtZniRA/HapJ+O3A0BIgzRIgzQ8QKLSkT0DUSlAqqqqqqrKE0BbWOmphZUSQO17RE4Q7iZAOmbv1sJN+z+T1CGnD9MKQC4hPtvq2hVA07UVOGadBkAGFeGWmg0LQMdxHMdxHCNAb8YLjygJEUD9jl4Z2+8gQC+hvYT2EihA\"}, \"type\": \"bar\"}, {\"hoverinfo\": \"text\", \"hovertext\": [\"<b>Topic 1</b><br>Words: atelier imprimerie clandestine, police découvert domicile, 11 ans masemba, badian 12 ans, erreur pilotage toufiq\", \"<b>Topic 1</b><br>Words: toumi djaïdja, policier, association sos, vol, 15 mois prison\", \"<b>Topic 1</b><br>Words: été vite étouffée, ouskine posait ricochet, jeune étudiant beur, démocratie beaucoup perdu, posait ricochet français\", \"<b>Topic 1</b><br>Words: mort tombé bras, réunissant 7000 personnes, tribunaux sanctionnaient vraiment, ans tribunaux sanctionnaient, parlé 10 ans\", \"<b>Topic 1</b><br>Words: ans tué, crimes racistes, chien, ombrile vivre mémoire, 1982 ouedia chichi\", \"<b>Topic 1</b><br>Words: ans tué, 17 décembre 97, chien, tiré, gamin\", \"<b>Topic 1</b><br>Words: chien, policier, khaled kalkal, voiture, gamin\", \"<b>Topic 1</b><br>Words: ans tué, fanantère 1982 wadia, 4 ans énormément, rien marseille 2, crimes racistes rien\", \"<b>Topic 1</b><br>Words: delorme penser marche, longue transversale verquist, transversale verquist gzuereb, verquist gzuereb pointe, pointe dernier but\", \"<b>Topic 1</b><br>Words: tiré, algérien, meurtres, bruit, 17 ans\", \"<b>Topic 1</b><br>Words: tué, mort, assassiné, chien policier, cris\", \"<b>Topic 1</b><br>Words: issu immigration avoue, faire sauter usine, julien andré faire, froid soir froid, tard région lyonnaise\", \"<b>Topic 1</b><br>Words: marche 3 jours, climat guillemets violence, tirer survit lu, mobilisation toumi djaïdja, 1973 3 jours\", \"<b>Topic 1</b><br>Words: faut faire attention, niveau éducation, balle, acharnement rappelle peut-être, tué temps bien\", \"<b>Topic 1</b><br>Words: pam, tiré, 26 ans, tué, bruit\", \"<b>Topic 1</b><br>Words: chien, habib grimsy, 113, vitre, balle\", \"<b>Topic 1</b><br>Words: tombé yeux blanchis, jours coup feu, fuse peut-être coups, allait vivre abdomen, insulté vivement\", \"<b>Topic 1</b><br>Words: crimes racistes, blessé, tuer, balle cour neuf, 10 ans tué\", \"<b>Topic 1</b><br>Words: chien, mort, balle, gamin, bruit\", \"<b>Topic 1</b><br>Words: voiture, frère été abattu, tir, mort, tirer\"], \"marker\": {\"color\": \"#009E73\"}, \"name\": \"1_mort_tiré_toumi djaïdja_bruit\", \"orientation\": \"v\", \"visible\": \"legendonly\", \"x\": {\"dtype\": \"i2\", \"bdata\": \"vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH\"}, \"y\": {\"dtype\": \"f8\", \"bdata\": \"wSCxic618D+++mUSmz8RQAAAAAAAAAAAAAAAAAAAAACrqqqqqqoaQAAAAAAAAAAAYt0VKPQU8T8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwQESmYbtZnhRARCtsDiRaGUBBGqRBGqQpQMP8rhY3Yf4/XL7lW75l9z+TLxs0+bIRQJqK55rVYfQ/lR5ZEs/X5T9M6yoROhf2P2Vp1CEIXfY/AAAAAAAAAADsHmll8gQMQHIcx3Ecx/E/chGIWH8UA0CWsf2OXhkTQC+hvYT2EihA\"}, \"type\": \"bar\"}, {\"hoverinfo\": \"text\", \"hovertext\": [\"<b>Topic 2</b><br>Words: -ce avez pouvoir, mosquée donnée tour, donnée tour faut, jeunes voyaient voyaient, familles bon vécu\", \"<b>Topic 2</b><br>Words: voile, faire boulot éducateurs, montée islam, question islam, dommage\", \"<b>Topic 2</b><br>Words: aiment habiller finissent, franchement femme maghrébine, portent voile aiment, apprendre envie épanouir, vite homme envie\", \"<b>Topic 2</b><br>Words: femme inculte femme, véhiculer cliché femme, cliché femme soumise, soumise femme inculte, inculte femme battue\", \"<b>Topic 2</b><br>Words: rapport mosquées, excuserez combat pose, polygamie excuserez combat, quartiers etc. confisquer, quartiers mariages forcés\", \"<b>Topic 2</b><br>Words: religieux, affaire voile, non-musulmans, religieuse, laïcité\", \"<b>Topic 2</b><br>Words: voile, foulard, laïcité, islam religion, religieux\", \"<b>Topic 2</b><br>Words: croyants, -ce savez, m. dimension construction, actes policiers inquiétude, mosquée roman isère\", \"<b>Topic 2</b><br>Words: jeunes assis religieusement, assis religieusement jeunes, religieusement jeunes assis, réponses questions côté, voir -ce passe\", \"<b>Topic 2</b><br>Words: voile, foulard, islamophobe, mosquée, laïcité\", \"<b>Topic 2</b><br>Words: islam religion, brosser beaux cheveux, foulard, hostilités, volontairement\", \"<b>Topic 2</b><br>Words: voilée accompagne gamin, femme voilée accompagne, mosquée local, mosquée mosquée, discuté jeunes\", \"<b>Topic 2</b><br>Words: islam, ethniciser rapports sociaux, musulmans, voilée, figure\", \"<b>Topic 2</b><br>Words: islam, mettre côté barrière, femmes ailleurs portaient, similaire compliqué antrisme, femmes appliquait femmes\", \"<b>Topic 2</b><br>Words: islam, religion, voile, musulmans, romand\", \"<b>Topic 2</b><br>Words: islam, religion, corps femmes, foulard, voile voile\", \"<b>Topic 2</b><br>Words: terrorisme, mosquée, islam religion, foulard, chose rattache\"], \"marker\": {\"color\": \"#F0E442\"}, \"name\": \"2_foulard_religieux_-ce avez pouvoir_laï...\", \"orientation\": \"v\", \"visible\": \"legendonly\", \"x\": {\"dtype\": \"i2\", \"bdata\": \"vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH\"}, \"y\": {\"dtype\": \"f8\", \"bdata\": \"wSCxic618D8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA3RUo9BRRD0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABWVVVVVVX1PwAAAAAAAAAAfBphuacR5j8AAAAAAAAAALn6QUcFvvg/lPHbpZ6MMEAAAAAAAAAAAAAAAAAAAAAAxU7sxE7s+j+TLxs0+bLxP0aZiuea1RFAcnkRfArkF0A0SIM0SIMEQD+KLTx9Zeg/alFSP84UI0AGFeGWmg3rP+Q4juM4jhNAy8otZUjOBUBj+x29MrbvPwAAAAAAAAAA\"}, \"type\": \"bar\"}, {\"hoverinfo\": \"text\", \"hovertext\": [\"<b>Topic 3</b><br>Words: lyon ouais villefranche-sur-saône, armes europe moyen-orient, bulletin information nationale, occasion loge maçonnique, bien oh bien\", \"<b>Topic 3</b><br>Words: alex, maxime, bienvenue, oh, salut\", \"<b>Topic 3</b><br>Words: êtes monsieur frangie, personnes veulent excusez, veulent excusez -moi, voir disent revenir, fiche note voir\", \"<b>Topic 3</b><br>Words: ben hola octave, aller attends bientôt, ouais baisse baragineux, mot sais êtes, troublé euh chien\", \"<b>Topic 3</b><br>Words: faut prêtes non, sûre oui intéressait, image positive femme, non tata sûre, intéressait montrer image\", \"<b>Topic 3</b><br>Words: curie christian delorme, oui bien toucher, lepra sujet intéresse, doigts dois dois, populaires fsqp.free.fr écoute\", \"<b>Topic 3</b><br>Words: alex, maxime, oh, bienvenue, salut\", \"<b>Topic 3</b><br>Words: capable faire, non non non, yamina, répondre sentinelle, sais marches farid\", \"<b>Topic 3</b><br>Words: vient voir secrétaire, entretien vient voir, général elysée président, président -ce avez, moreau assistait entretien\", \"<b>Topic 3</b><br>Words: paname champions league, champions league paname, league paname champions, madame ministre, intervenants\", \"<b>Topic 3</b><br>Words: gilbert, thierry ardisson, père castor, cabaret cabaret, bienvenue\", \"<b>Topic 3</b><br>Words: marche mouvement historique, intéressez histoire hésitez, hashtag kiftaras nassira, réseaux hashtag kiftaras, entendu intéressez histoire\", \"<b>Topic 3</b><br>Words: parisiens parisiennes attendez, livre beurettes bientôt, parisiennes attendez rende, lire livre beurettes, paris parisiens parisiennes\", \"<b>Topic 3</b><br>Words: espère beaucoup plaisir, saïd bouanama inauguré, salut thibaut, infiniment saïd bouanama, émission espère beaucoup\", \"<b>Topic 3</b><br>Words: 1 2 coin, 3 octobre 1, coin loisir ministre, loisir ministre oui, 2 3 octobre\", \"<b>Topic 3</b><br>Words: parlez temps court, soirée, assemblée, spotify site internet, beaucoup 2 florent\", \"<b>Topic 3</b><br>Words: madame ministre, bonjour, conférence, reportage fini aujourd'hui, reviendrez\", \"<b>Topic 3</b><br>Words: marche monde internet, internet exprimez -vous, infos contacts page, réseaux sociaux podcastez, contacts page marche\"], \"marker\": {\"color\": \"#D55E00\"}, \"name\": \"3_alex_maxime_bienvenue_oh\", \"orientation\": \"v\", \"visible\": \"legendonly\", \"x\": {\"dtype\": \"i2\", \"bdata\": \"vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH\"}, \"y\": {\"dtype\": \"f8\", \"bdata\": \"ILGJzrUQ6T87x7PGikjKPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYt0VKPQU8T8AAAAAAAAUQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAfBphuacR5j8AAAAAAAAAANBRgS+ufvA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAG6RBGqQBDUAJvP2QwNsPQJqK55rVYeQ/Z0Kk9MiSCEBM6yoROhcGQD+KLTx9Zfg/07UVOGad1j/gxaAi3FLzPxzHcRzHccw/fj15ftpB+z/SK2P7Hb3yPxLaS2gvoe0/\"}, \"type\": \"bar\"}, {\"hoverinfo\": \"text\", \"hovertext\": [\"<b>Topic 4</b><br>Words: procès re-jugement été, sachez aujourd'hui lieu, retrouve prison sachez, injuste quelqu' sorti, été condamné -t\", \"<b>Topic 4</b><br>Words: centre culturel gérard, culturel gérard philippe, 30 novembre exposition, 76 rue, 2 rue\", \"<b>Topic 4</b><br>Words: rouge long métrage, compositeur algérien merzak, algérien écrit musique, présence linda souza, république présence linda\", \"<b>Topic 4</b><br>Words: objective donne image, duvivier lechanois veulent, changent années 60, donne image cinéma, voulait relativiser apparence\", \"<b>Topic 4</b><br>Words: oui parlé puisqu', smaïm autodidacte entreprend, smaïd cinoche grosse, chante chante gros, chante gros plan\", \"<b>Topic 4</b><br>Words: cinéastes, indigène immigré, guerre algérie film, scénario, rapport colonial rapport\", \"<b>Topic 4</b><br>Words: cinéma, jamel debbouze, cinématographique, faire film, documentaire\", \"<b>Topic 4</b><br>Words: cinéma, montaterre, réalisatrice, mépris, appelé semaines disant\", \"<b>Topic 4</b><br>Words: 000 paris question, important nabil rassemblé, essentiel bûche important, jeunesse enfance respecter, portaient discours envie\", \"<b>Topic 4</b><br>Words: y. allez y., allez y. allez, passer rokhaya rokhaya, flyers jeune homme, idion jouandra instant\", \"<b>Topic 4</b><br>Words: 30 ans marche, film film, soir médiathèque roubaix, 2013 30 ans, mise place\", \"<b>Topic 4</b><br>Words: death wish, bruce willis, carrément, scénario, regardes\", \"<b>Topic 4</b><br>Words: film français pote, thierry lhermitte coluche, imaginer breton demande, film français espèce, vidéo ouais arriver\", \"<b>Topic 4</b><br>Words: minutes retard appeler, êtes retard arrivée, avance cool, sort complètement évidemment, donné sujet beaucoup\", \"<b>Topic 4</b><br>Words: autour 11 décembre, 0768 6402 84, sortie film, conseille, carrément\"], \"marker\": {\"color\": \"#0072B2\"}, \"name\": \"4_cinéma_jamel debbouze_cinématographiqu...\", \"orientation\": \"v\", \"visible\": \"legendonly\", \"x\": {\"dtype\": \"i2\", \"bdata\": \"vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH\"}, \"y\": {\"dtype\": \"f8\", \"bdata\": \"wSCxic610D87x7PGikjqP7dt27Zt2wZAAAAAAAAAAACrqqqqqqo6QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWe5phOWeMkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0yAN0iDNCUAJvP2QwNv/P5qK55rVYQRAlR5ZEs/X9T/bvRg95Y7/P5uxamgl3xZAAAAAAAAAAABz7cBcOzDXP1ZVVVVVVeU/AAAAAAAAAADCFPmsG0zhPwAAAAAAAAAA\"}, \"type\": \"bar\"}, {\"hoverinfo\": \"text\", \"hovertext\": [\"<b>Topic 5</b><br>Words: sachent marchent bien, chroniqueur europe numéro, étage inférieur disons, ministre voulez bien, reportage consacré convergence\", \"<b>Topic 5</b><br>Words: 68 jeunes descendaient, souvient mai 68, jeunes mobiliser autour, descendaient rue demander, pousse jeunes mobiliser\", \"<b>Topic 5</b><br>Words: renouvellement pratiques sociales, ici porteuse nombre, marcheurs ici porteuse, 89 peut-être réflexion, effectivement porteuse marche\", \"<b>Topic 5</b><br>Words: traînent ici propres, 1983 jeunes cités, positif été calcul, point positif été, cités 20 ans\", \"<b>Topic 5</b><br>Words: heureusement féministe agnostique, penche surprenant image, surprenant image images, oublier marche 83, aujourd'hui pignon rues\", \"<b>Topic 5</b><br>Words: minguettes oui rodeaux, rodéos minguettes oui, oui rodeaux minguettes, rodeaux minguettes acte, issue immigration seconde\", \"<b>Topic 5</b><br>Words: rodéos minguettes rodéos, minguettes rodéos minguettes, rodéos minguettes acte, 1981 minguettes fameux, tard génération beur\", \"<b>Topic 5</b><br>Words: monté entreprise journalistes, marcheurs initiative lancée, vote élections régionales, mars prochain test, lancée 1983 bilans\", \"<b>Topic 5</b><br>Words: marche 1983, 2013, mémoire, mobilisations, début années 80\", \"<b>Topic 5</b><br>Words: 83 marcheur 83, marcheur 83 marcheur, vraiment précis idée, légende urbaine oubliait, faire vivre moment\", \"<b>Topic 5</b><br>Words: marche 1983, 1963, mémoire, etats-unis, détenus\", \"<b>Topic 5</b><br>Words: racisme 1983 transmission, dites marche égalité, thème ambiant époque, faire respecter lancé, ambiant époque années\", \"<b>Topic 5</b><br>Words: généalogie, années 70, mémoire marche, mal violences soudainement, revendications 83 compare\", \"<b>Topic 5</b><br>Words: porter efforts génération, caractère éruptif expressif, passer générations été, égaux fournissent efforts, marche 83 auparavant\", \"<b>Topic 5</b><br>Words: plaques tectoniques, marche égalité 83, politique ville, marche 1983, contribue imposer débat\", \"<b>Topic 5</b><br>Words: télévision, 8 sujets, année 83 point, artistique smaïn humoriste, rejoindre années savoir\", \"<b>Topic 5</b><br>Words: texte, arrive années 80, écriture, génération arrive années, années 80 génération\", \"<b>Topic 5</b><br>Words: marche 83, bonjour, marche 1983, français arabe, dreux\", \"<b>Topic 5</b><br>Words: rpr acquiert obtient, acquiert obtient victoire, candidat rpr acquiert, marche 1983 1985, émerge progressivement années\"], \"marker\": {\"color\": \"#CC79A7\"}, \"name\": \"5_marche 83_marche 1983_mobilisations_20...\", \"orientation\": \"v\", \"visible\": \"legendonly\", \"x\": {\"dtype\": \"i2\", \"bdata\": \"vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH\"}, \"y\": {\"dtype\": \"f8\", \"bdata\": \"AAAAAAAAAAA7x7PGikjaP7dt27Zt2/Y/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALCcd4JrG1j8AAAAAAAAAAD744IMPPghAAAAAAAAAAABWVVVVVVUFQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQQAAAAAAAAAAAAAAAAAAAAAA0SIM0SIMEQIKodGTPQPQ/DdIgDdKgAUAAAAAAAAAAAJqK55rVYQRAwvoNMNUcE0DbvRg95Y7vP68nIu0dTAJASCMbxr9EDEAWspCFLGTxPzmO4ziO4/g/JYTTcRGICECak0BcqDn5PxLaS2gvof0/\"}, \"type\": \"bar\"}, {\"hoverinfo\": \"text\", \"hovertext\": [\"<b>Topic 6</b><br>Words: fraternité, voir capables ensemble, faire voir capables, peuple français, capables ensemble aimer\", \"<b>Topic 6</b><br>Words: croyait, ouvrir, yeah positive iron, français désirer justice, vibration yeah positive\", \"<b>Topic 6</b><br>Words: hollandaise venue signifier, 30 répressions subies, remarqué présence délégation, signifier solidarité immigrés, puisqu' tenu coup\", \"<b>Topic 6</b><br>Words: valeurs mortes chose, marre marre motivés, chose sympathique moments, égalité fraternité époque, suppose moments baisse\", \"<b>Topic 6</b><br>Words: bosser bosser bosser, dialogue intéressant discours, recherchons dialogue intéressant, grandes valeurs république, réclame grandes valeurs\", \"<b>Topic 6</b><br>Words: vivre fraternité affiche, rêve éveillé cru, éveillé cru société, française vivre fraternité, cru société française\", \"<b>Topic 6</b><br>Words: liberté égalité fraternité, hitler liberté égalité, blanc beur france, engagé écouté général, droits frères armes\", \"<b>Topic 6</b><br>Words: française prenne sportifs, vit monde bien, plurielle fois vit, couleurs partout bien, identifier fierté pays\", \"<b>Topic 6</b><br>Words: généraliser bien écoutez, peut-être nés bien, bon pari ressent, droit généraliser bien, pari ressent truc\", \"<b>Topic 6</b><br>Words: égalité égalité égalité, fraternité, main tendue, point levé, -ce bon choix\", \"<b>Topic 6</b><br>Words: champ collectif humains, pouvoir travailler originaires, ben yamina ans, pouvoir enrichir commerce, disait pouvoir travailler\", \"<b>Topic 6</b><br>Words: évidemment droit vote, question égalité droit, droit ensemble points, bien évidemment droit, morale vraiment question\", \"<b>Topic 6</b><br>Words: poursuivre souhaitent racisme, françaises poursuivre souhaitent, waouh bien situant, souhaitent racisme coup, bien situant cœur\", \"<b>Topic 6</b><br>Words: désordre, justice sociale, élan, amour, envie continuer combat\", \"<b>Topic 6</b><br>Words: gagné, motif espoir, ensemble français, venons ici, foutu\", \"<b>Topic 6</b><br>Words: eau peut-être beaucoup, aimer différence chair, chair eau peut-être, différence chair eau, solidarité sert solidarité\", \"<b>Topic 6</b><br>Words: jamais guide moments, -là chemin jonché, itinéraires obstacles soient, exemple grande marche, -t -il réaction\", \"<b>Topic 6</b><br>Words: français délivrés injustices, injustices français délivrés, délivrés injustices français, faire voir capables, voir capables ensemble\", \"<b>Topic 6</b><br>Words: voulu montrer patte, beaucoup contenu anonnent, blanche crois moment, bon tenter déplacer, égalité marche arrière\", \"<b>Topic 6</b><br>Words: fraternité, voudrait atteindre, rêve, sert, croyez\", \"<b>Topic 6</b><br>Words: cas région france, crois cas région, oui suivi suivi, régions crois cas, région france presque\"], \"marker\": {\"color\": \"#E69F00\"}, \"name\": \"6_égalité égalité égalité_idéal_formidab...\", \"orientation\": \"v\", \"visible\": \"legendonly\", \"x\": {\"dtype\": \"i2\", \"bdata\": \"vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH\"}, \"y\": {\"dtype\": \"f8\", \"bdata\": \"Ufn1cCk+HUCEXDC8Vm0AQLdt27Zt2/Y/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALCcd4JrG5j8AAAAAAAAAAC+66KKLLhJAAAAAAAAAAACrqqqqqqoaQAAAAAAAAAAAfBphuacR9j8AAAAAAAAAAAAAAAAAAAAA2BxItMLm8D8AAAAAAAAAAMP8rhY3Yf4/vuVbvuVb+D+x0lMLKz3lP5qK55rVYfQ/lR5ZEs/X1T/bvRg95Y7/P9UGydKoQwBA07UVOGad1j9z7cBcOzDXPxzHcRzHcQxAGFjiS7Za4D/CFPmsG0zxPxLaS2gvof0/\"}, \"type\": \"bar\"}, {\"hoverinfo\": \"text\", \"hovertext\": [\"<b>Topic 7</b><br>Words: professionnels, outrancière donne image, interviewer tema fatima, intérêt lutte représente, personnes origines mrap\", \"<b>Topic 7</b><br>Words: racisme volonté vouloir, sos racisme volonté, radical exprime sujet, retrouvent aujourd'hui entourage, exprime sujet militants\", \"<b>Topic 7</b><br>Words: parti socialiste, convergence 84, militants socialistes, contrôler, associatif\", \"<b>Topic 7</b><br>Words: animateurs mouvements associatifs, sentiment dépossédés animateurs, pouvoir socialos elysée, dépossédés animateurs mouvements, mouvements associatifs etc.\", \"<b>Topic 7</b><br>Words: idée mouvement sos, brassant idée mouvement, mouvement sos racisme, parti socialiste, antiracisme\", \"<b>Topic 7</b><br>Words: tard toumidjadja devenu, années tard toumidjadja, exprime sujet militants, retrouvent aujourd'hui entourage, toumidjadja devenu imam\", \"<b>Topic 7</b><br>Words: parti socialiste, récupération, sos racisme été, antiraciste, union étudiants juifs\", \"<b>Topic 7</b><br>Words: numéro petit truc, pensait allait devenir, an tard organisation, passé côté état, bouddha récupéré lamentable\", \"<b>Topic 7</b><br>Words: touche pote, sos marche égalité, création sos racisme, infantiliser, vidé\", \"<b>Topic 7</b><br>Words: parti socialiste, touche pote, sos racisme été, sos racisme créé, badge\", \"<b>Topic 7</b><br>Words: parti socialiste, antiracisme, touche pote, mitterrand, sos racisme créé\", \"<b>Topic 7</b><br>Words: serge malik, julien drey, officines, sérieuses laissées mains, direction assaut\", \"<b>Topic 7</b><br>Words: récupération parti socialiste, parole parole bottom, up sortait vraiment, époque sos racisme, situation français clamé\", \"<b>Topic 7</b><br>Words: sos racisme été, racisme été créé, adhéré sos racisme, projet politique, réélection françois mitterrand\", \"<b>Topic 7</b><br>Words: capital politique marche, bien entendu beaucoup, allais posture nationale, entendu beaucoup complexe, racisme tenter accaparer\"], \"marker\": {\"color\": \"#56B4E9\"}, \"name\": \"7_parti socialiste_antiracisme_sos racis...\", \"orientation\": \"v\", \"visible\": \"legendonly\", \"x\": {\"dtype\": \"i2\", \"bdata\": \"vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH\"}, \"y\": {\"dtype\": \"f8\", \"bdata\": \"AAAAAAAAAAAAAAAAAAAAALdt27Zt2xZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQQAt8cfWDjhJAIdEKmwOJ5j80SIM0SIMEQIKodGTPQOQ/DdIgDdIg/j+TLxs0+bLxPwAAAAAAAAAA79bCTdthAEB8MXrKHT/5P9UGydKoQwBAAAAAAAAAAAAyqAi31GwAQAAAAAAAAAAAchGIWH8U8z9qTgJxoeb0PxLaS2gvoe0/\"}, \"type\": \"bar\"}, {\"hoverinfo\": \"text\", \"hovertext\": [\"<b>Topic 8</b><br>Words: important vie sociale, accessible sommes issus, décidés rester marge, court algérie exemple, sociale française peut-être\", \"<b>Topic 8</b><br>Words: pays origine, attitude égard, georges morin, mesure valeurs, immigration travail\", \"<b>Topic 8</b><br>Words: solo musique musique, politique émission favoriser, couper pays prévalait, traduit lutte ailleurs, travailles solo musique\", \"<b>Topic 8</b><br>Words: occasion code nationalité, tâche confiée désavoue, chirac réforme code, confiée désavoue projet, dénonce atteinte libertés\", \"<b>Topic 8</b><br>Words: faut -il agir, sommes français monde, -vous jeune né, article 23 reconnaissait, démarche égard société\", \"<b>Topic 8</b><br>Words: main œuvre, flux migratoires, travailleurs étrangers, contrat, entrent\", \"<b>Topic 8</b><br>Words: issus immigration disaient, mode vie culture, proches mode vie, disaient proches mode, culture française aujourd'hui\", \"<b>Topic 8</b><br>Words: immigration mal, ouverture, portugais, contexte 30, sauvette\", \"<b>Topic 8</b><br>Words: société française lorsqu', jolis lorsqu' jeu, boissig avis marqué, idée voudrait faire, gênent stéréotypes société\", \"<b>Topic 8</b><br>Words: parents prêts repartir, été proposé 10, mecs trimé 30, proposé 10 000, 000 balles rentre\", \"<b>Topic 8</b><br>Words: immigration familiale france, compte immigration devenue, compte auparavant rendu, surprenant rendu compte, rendu compte immigration\", \"<b>Topic 8</b><br>Words: société française lorsqu', plupart cité minguettes, quelques-uns plupart chose, presque essentiel marcheurs, chose parlait beaucoup\", \"<b>Topic 8</b><br>Words: nés, grandi, nées france, déclarent, immigration postcoloniale\", \"<b>Topic 8</b><br>Words: mythe, grandissaient, perte, colonies, femmes enfants regroupement\", \"<b>Topic 8</b><br>Words: appeler 100 française, renvoie enfants différences, génération devrait appeler, guerre mondiale rejoindre, malle main œuvre\", \"<b>Topic 8</b><br>Words: rapport bilans durs, factuellement français matin, peut-être français conservé, réponses rapport bilans, mets important bien\", \"<b>Topic 8</b><br>Words: dissimuler temps marche, mythe petit pourri, valises image forte, rester définitivement ici, étions français force\", \"<b>Topic 8</b><br>Words: venus parents, main œuvre, complètement esprit public, france beaucoup venus, jeune génération née\", \"<b>Topic 8</b><br>Words: libye, problématique jeune issu, cherchent éuphémiser court-circuiter, chercher maliens sénégalais, génération beaucoup français\", \"<b>Topic 8</b><br>Words: jeunes immigrés rappelle, structures variées parlaient, jeunes parents acceptés, parents acceptés admis, acceptés admis pensés\", \"<b>Topic 8</b><br>Words: œuvre étrangère rien, ferme pleine expansion, télévision vraiment travailleur, anciennes colonies afrique, france turbiner usines\", \"<b>Topic 8</b><br>Words: été élevés mythe, exil, travailler faire grandir, enseignante enseignante famille, mythes français ailleurs\", \"<b>Topic 8</b><br>Words: reparte reparte, allé chercher, français papier, héritiers, nés france\"], \"marker\": {\"color\": \"#009E73\"}, \"name\": \"8_pays origine_retourner_immigrée_grandi\", \"orientation\": \"v\", \"visible\": \"legendonly\", \"x\": {\"dtype\": \"i2\", \"bdata\": \"vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH\"}, \"y\": {\"dtype\": \"f8\", \"bdata\": \"wSCxic614D87x7PGikgKQAAAAAAAAAAAAAAAAAAAAACrqqqqqqoqQAAAAAAAACRAYt0VKPQU8T8AAAAAAAAAAD744IMPPihAAAAAAAAAAABWVVVVVVX1PwAAAAAAAAAAyz2NsNzTKEAAAAAAAAAQQNBRgS+ufuA/IdEKmwOJ5j80SIM0SIMUQAAAAAAAAAAAqqqqqqqq8D/OdYziXMf4P5qK55rVYfQ/Ombv1sJN6z8dpdtXVu/yPz+KLTx9Zfg/SCMbxr9EDECZPAHR+eq+P1ZVVVVVVeU/eKeA6ywrB0BqTgJxoeb0PwAAAAAAAAAA\"}, \"type\": \"bar\"}, {\"hoverinfo\": \"text\", \"hovertext\": [\"<b>Topic 9</b><br>Words: jours bons beurs, beurs nom donnés, français beurs nom, bons beurs verlan, beurs verlan français\", \"<b>Topic 9</b><br>Words: rebeu verlan beur, rebeu mettez rebeu, rebeu racontissez rebeu, verlan beur avez, mot beurs normalement\", \"<b>Topic 9</b><br>Words: roroto veut auto-dérision, mot beur, beurette, lang verlan parlait, glisser petit mot\", \"<b>Topic 9</b><br>Words: donnée sémantique importance, pain bon bout, racisme aujourd'hui médias, racisme marche maghrébins, importance puisqu' détermine\", \"<b>Topic 9</b><br>Words: côté apprendre montrer, domination financière fantasme, côté jeune fille, fille innocente côté, fantasme lolita côté\", \"<b>Topic 9</b><br>Words: mode beur, terme beur, beur existe, parachita, aujourd'hui mot\", \"<b>Topic 9</b><br>Words: matière grasse beur, espoir miroir apporté, beur matière grasse, beur arabe verlan, faire tartiner marche\", \"<b>Topic 9</b><br>Words: magie, mot beur, beurette, mot arabe, beur verlan contre\", \"<b>Topic 9</b><br>Words: été marginalisation épisode, ancien leader marche, jamel attala ancien, beurs paris beur, arabe machin bon\", \"<b>Topic 9</b><br>Words: mot rebeu, correspond, mot arabe, suffixe, mot beur\", \"<b>Topic 9</b><br>Words: imaginaire, mot beurette, femme maghrébine, décide appeler, inventé enfants ici\", \"<b>Topic 9</b><br>Words: mot beur, connotation, filles, françaises origine maghrébine, burette\", \"<b>Topic 9</b><br>Words: féminin beur, jugées, bouche, filles, expression\", \"<b>Topic 9</b><br>Words: beurette, stigmate, beur mot beur, second degré, mot beur mot\", \"<b>Topic 9</b><br>Words: apporté avez transmis, verlan marseillais insulte, époque aujourd'hui serge, nom véritable marche, noble mot apparente\"], \"marker\": {\"color\": \"#F0E442\"}, \"name\": \"9_mot rebeu_mot arabe_correspond_langue\", \"orientation\": \"v\", \"visible\": \"legendonly\", \"x\": {\"dtype\": \"i2\", \"bdata\": \"vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH\"}, \"y\": {\"dtype\": \"f8\", \"bdata\": \"wSCxic610D87x7PGikjKPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYt0VKPQUAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANBRgS+ufvA/AAAAAAAAAAAAAAAAAAAAAIKodGTPQOQ/O7ETO7ET1z/sGMW5jlHMPwAAAAAAAAAAlR5ZEs/X9T8AAAAAAAAAANUGydKoQ8A/gWPWaVFSN0AGFeGWmg37P6uqqqqqqhpAchGIWH8UA0BU5LNuMEXuPxLaS2gvof0/\"}, \"type\": \"bar\"}, {\"hoverinfo\": \"text\", \"hovertext\": [\"<b>Topic 10</b><br>Words: pensais société société, crié toits pensais, mois crié toits, toits pensais société, hurlé mois crié\", \"<b>Topic 10</b><br>Words: rêve avenir, jour aube jour, travaille usine, faire famille, problème travail\", \"<b>Topic 10</b><br>Words: lyon journée nationale, siège école nationale, nadia fonctionniste électoral, paris siège école, m. pierre truche\", \"<b>Topic 10</b><br>Words: sonnette code extérieur, sonné porte non, prête admettons faire, dieu existe mohamed, prêt porter vie\", \"<b>Topic 10</b><br>Words: attendre entrepris faut, vrai chance rien, entrepris faut faire, faut entreprendre action, rien faut entreprendre\", \"<b>Topic 10</b><br>Words: rejoindre marche beurs, clermont ferrand époque, chose france participé, bien nouvelle naissance, beurs démarche apporté\", \"<b>Topic 10</b><br>Words: montre monde vient, domaine homme métro, paris fier montre, trophée vrai guerrier, rentrer terrain métro\", \"<b>Topic 10</b><br>Words: ramadan voulait faire, senti obligé faire, senti dépossédé honte, né 70 mis, 70 mis faire\", \"<b>Topic 10</b><br>Words: éducatrice, arrivée paris, angers, université, entendu cœur pris\", \"<b>Topic 10</b><br>Words: lâché, peut-être beaucoup imperméable, peut-être avancé attends, haine univers dernier, jamais bon parti\", \"<b>Topic 10</b><br>Words: enfants emmené gare, prends distribution repas, actions -ce aurais, repas jouais enfants, forcément chose voir\", \"<b>Topic 10</b><br>Words: enfant 9 ans, mante-la-jolie, résonné, justement tradition non-violente, alsaciens bizarres fallait\", \"<b>Topic 10</b><br>Words: histoire géographie, capacités non petit, impression conseille monde, aveugle naissance vois, aveugle véritablement malade\", \"<b>Topic 10</b><br>Words: études, petite ville, venait, euh, cœur pris décision\", \"<b>Topic 10</b><br>Words: nuit, rock' roll, écris, londres, littéraire\", \"<b>Topic 10</b><br>Words: sœur sœur sœur, promis sœur sœur, heure payer détails, trompée cœur trahie, détails promis sœur\", \"<b>Topic 10</b><br>Words: mal rester place, rester place marche, phrase, écrit, réfléchir écriture écris\", \"<b>Topic 10</b><br>Words: entendu cœur pris, cœur pris décision, pris décision entendu, décision entendu cœur, pleurais pleurais pleurais\", \"<b>Topic 10</b><br>Words: départ estomarche marseille, estomarche marseille courant, soutenir départ estomarche, allé prendre photos, allé photographe temps\"], \"marker\": {\"color\": \"#D55E00\"}, \"name\": \"10_entendu cœur pris_cœur pris décision_...\", \"orientation\": \"v\", \"visible\": \"legendonly\", \"x\": {\"dtype\": \"i2\", \"bdata\": \"vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH\"}, \"y\": {\"dtype\": \"f8\", \"bdata\": \"8GgdLELj9D/fEXLB8FoFQLdt27Zt2/Y/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAR4IZhMftA0AAAAAAAADwPwAAAAAAAAAAAAAAAAAAAABWVVVVVVX1PwAAAAAAAAAAfBphuacR5j8AAAAAAAAAAAAAAAAAAAAAaYXNgUQr/D8AAAAAAAAAAAAAAAAAAAAAaZAGaZAG8D/OdYziXMf4P5qK55rVYeQ/wvoNMNUc8z/bvRg95Y7vP/TL33BndgxAAAAAAAAAAADgxaAi3FLzPxzHcRzHcfw/2PYei6P7/T9j+x29MrbvPxLaS2gvoe0/\"}, \"type\": \"bar\"}, {\"hoverinfo\": \"text\", \"hovertext\": [\"<b>Topic 11</b><br>Words: français problème -ce, économiques immigrés bien, pris conscience côté, côté essaye sensibiliser, savoir problèmes économiques\", \"<b>Topic 11</b><br>Words: main œuvre nationale, cantonné espace, main œuvre bon, œuvre bon marché, affecté\", \"<b>Topic 11</b><br>Words: désintégration politique exclu, abandon nombre quartiers, abandon nombre populations, 10 ans désintégration, populations crois ment\", \"<b>Topic 11</b><br>Words: vallée thierry meunier, représentés habitants dirais, françoise vallée thierry, chance inespérée venez, habitants dirais chance\", \"<b>Topic 11</b><br>Words: concurrence vive marché, etc. trop oublié, 2 millions 3, question sociale lorsqu', nationaux travailleurs étrangers\", \"<b>Topic 11</b><br>Words: petits-enfants immigration retrouvent, immigration retrouvent place, place sociale inférieure, immigration petits-enfants immigration, sociale inférieure immigrés\", \"<b>Topic 11</b><br>Words: veux réglé parqués, compte résultent fil, rubrique faits illustre, illustre délinquance règlements, court arguments polygamie\", \"<b>Topic 11</b><br>Words: acheter prend temps, personnel départ héritage, revenus élevés prix, immédiatement jean-louis borloo, montreux seine-et-marne reprise\", \"<b>Topic 11</b><br>Words: années 70, violence violence violence, bidonvilles, chômeurs, emploi\", \"<b>Topic 11</b><br>Words: travailleurs immigrés pair, positif égard enfants, immigrés pair habilitation, habilitation discours positif, discours positif égard\", \"<b>Topic 11</b><br>Words: comprimés appartements 20, vie mènent appartements, fausse démontrer simplement, ans propriétaire voit, mènent appartements mettent\", \"<b>Topic 11</b><br>Words: reprendre, logement social, solution voter organiser, arbi extérieur image, porte réalité quartiers\", \"<b>Topic 11</b><br>Words: écrasé, chômage, individus, logement, partir 1990 vraiment\", \"<b>Topic 11</b><br>Words: patrimoine question travailleurs, patrimoines entretenus problèmes, familles mixtes choses, familles familles mixtes, existant quartiers bailleurs\", \"<b>Topic 11</b><br>Words: puissance chômage masse, chômage masse quartiers, masse quartiers -là, -là familles -là, contexte train rentrer\", \"<b>Topic 11</b><br>Words: logement social, peur travail, emploi, politique ville, trouvent\", \"<b>Topic 11</b><br>Words: reléguée périphérie loin, cité dortoir pourtant, préfet exaucé harlem, plein files attente, oui compte aujourd'hui\", \"<b>Topic 11</b><br>Words: quartiers populaires mourront, ans vit parents, aller vite histoire, loyer populations instrument, beaucoup mixité aujourd'hui\", \"<b>Topic 11</b><br>Words: logement faut reconnu, reconnu droit convenablement, droit convenablement logé, point logement faut, faut reconnu droit\"], \"marker\": {\"color\": \"#0072B2\"}, \"name\": \"11_emploi_années 70_logement social_gran...\", \"orientation\": \"v\", \"visible\": \"legendonly\", \"x\": {\"dtype\": \"i2\", \"bdata\": \"vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH\"}, \"y\": {\"dtype\": \"f8\", \"bdata\": \"wSCxic614D9s1QYVaLYDQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALCcd4JrGBkAAAAAAAADwPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAfBphuacR5j8AAAAAAAAAANBRgS+ufgBAIdEKmwOJ9j8AAAAAAAAAAIKodGTPQOQ/cPmWb/mW8j/sGMW5jlHMP+ZPW2jAkv4/wvoNMNUc8z98MXrKHT/5P9UGydKoQ+A/XkgQqgz28D9z7cBcOzD3P1ZVVVVVVeU/y8otZUjO5T9KIC7UnATyPwAAAAAAAAAA\"}, \"type\": \"bar\"}, {\"hoverinfo\": \"text\", \"hovertext\": [\"<b>Topic 12</b><br>Words: avis faut devienne, faut devienne ordinaire, faut devienne manécourant, faut législateur intervienne, tard peut-être trop\", \"<b>Topic 12</b><br>Words: fois besoins degré, jeunes savoir facile, besoins nouveaux faut, besoins partager prendre, maire mantes-la-jolie difficultés\", \"<b>Topic 12</b><br>Words: justice vraiment prenne, jeunes organisent délinquance, temps bien jeunes, compte aspirations plupart, entière temps temps\", \"<b>Topic 12</b><br>Words: calmer non faut, aller certainement discuter, fond problème travers, fois essayer comprendre, terrain lieu faire\", \"<b>Topic 12</b><br>Words: communication termes mobilisation, terme partir moment, habitants acceptent met, habitants quartiers suivi, termes communication termes\", \"<b>Topic 12</b><br>Words: choses veut égal, -nous choses veut, part responsabilité accepte, pouvez aider régler, aider résoudre problèmes\", \"<b>Topic 12</b><br>Words: agents etat engage, école grève fonctionnaires, agit simple système, agents municipaux occuper, éducation communes appelées\", \"<b>Topic 12</b><br>Words: bâtiment, 4 millions, président université, ufr, financières\", \"<b>Topic 12</b><br>Words: défiance vis-à-vis élites, décisions fallait écoutez, regardez écoutez république, droite pouvoir pris, donner leçons sûr\", \"<b>Topic 12</b><br>Words: prenantes acteurs auteurs, sociale habitants parties, ville collectif 2005, politique ville collectif, humain désolé faut\", \"<b>Topic 12</b><br>Words: racisme représentation politique, invite intérieur métier, interpeller fois politiques, vivante capable mettre, intérieur maison pollenne\", \"<b>Topic 12</b><br>Words: faut aider, bons, détrouver choses remplacent, petit alléger portent, bureaux études maîtresses\", \"<b>Topic 12</b><br>Words: appel dernièrement personnalités, réalité niveau politique, plan gouvernement plan, bien chape plomb, société française capital\", \"<b>Topic 12</b><br>Words: quartiers populaires quantité, voyaient petit loin, appelle apports électoraux, loin disant bon, suite quartiers populaires\", \"<b>Topic 12</b><br>Words: université, transition écologique, politique ville, budget, écologie\", \"<b>Topic 12</b><br>Words: sortent cité chose, cité chose êtes, chose êtes bien, redevient central remettre, social redevient central\"], \"marker\": {\"color\": \"#CC79A7\"}, \"name\": \"12_bâtiment_uvsq_politique ville_plan\", \"orientation\": \"v\", \"visible\": \"legendonly\", \"x\": {\"dtype\": \"i2\", \"bdata\": \"vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH\"}, \"y\": {\"dtype\": \"f8\", \"bdata\": \"AAAAAAAAAAA7x7PGikjKP7dt27Zt2/Y/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALCcd4JrG5j8AAAAAAADwPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANBRgS+ufuA/AAAAAAAAAAA0SIM0SIMEQMP8rhY3Yf4/qqqqqqqq8D+x0lMLKz3lPwAAAAAAAAAA79bCTdth4D8dpdtXVu/iP4pIeweTVOQ/AAAAAAAAAABz7cBcOzDXPwAAAAAAAAAAy8otZUjOxT9qTgJxoeYEQBLaS2gvoe0/\"}, \"type\": \"bar\"}, {\"hoverinfo\": \"text\", \"hovertext\": [\"<b>Topic 13</b><br>Words: magistrats, policiers, délinquance, français partage opinion, gouvernement contrôle parquets\", \"<b>Topic 13</b><br>Words: simplement policier fasse, travail normal faut, monde évidence problème, fois manière provocation, fasse travail normal\", \"<b>Topic 13</b><br>Words: reconnaissance violences policières, affaires, police rapport, brutalité policier, commissariat vinicieux\", \"<b>Topic 13</b><br>Words: disant verrai ministre, république commence discuter, verrai ministre justice, répondu disant verrai, justice répondu disant\", \"<b>Topic 13</b><br>Words: voulait occasion valoriser, etat abîme parcours, valoriser porter sujet, interventions policières violences, racisme etat abîme\", \"<b>Topic 13</b><br>Words: question survie contrôle, connaissent adresse etc., grandir connaissent adresse, allée voient grandir, voient grandir connaissent\", \"<b>Topic 13</b><br>Words: harcèlement part police, subissent harcèlement part, socialement économiquement poursuivie, économiquement poursuivie policiers, population particulière discriminée\", \"<b>Topic 13</b><br>Words: choses multiplication actes, adonner genre choses, jouait travers quartier, public jouait travers, agissent ordre cas\", \"<b>Topic 13</b><br>Words: application, filmer policiers, brisée, bavures, impunité\", \"<b>Topic 13</b><br>Words: ici exemples plaintes, témoignages racontent chose, standardisée officielle numéro, répondu consignes fédération, racontent chose bidonville\", \"<b>Topic 13</b><br>Words: avocats militants hommage, mal frappe coups, avocats avocats militants, français appelle opinion, antoine perrault enquêté\", \"<b>Topic 13</b><br>Words: doctrine, rassurés, ministre intérieur, bleu, baffes partaient facilement\", \"<b>Topic 13</b><br>Words: baffes partaient facilement, bruts bruts contrôles, policiers bruts bruts, bruts contrôles musclé, bien état esprit\"], \"marker\": {\"color\": \"#E69F00\"}, \"name\": \"13_application_pratiques_opinion_filmer ...\", \"orientation\": \"v\", \"visible\": \"legendonly\", \"x\": {\"dtype\": \"i2\", \"bdata\": \"vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH\"}, \"y\": {\"dtype\": \"f8\", \"bdata\": \"AAAAAAAAAAAiQIofnJH9PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIKodGTPQOQ/cPmWb/mW4j/sGMW5jlHMP5qK55rVYeQ/lR5ZEs/XxT98MXrKHT/ZP9UGydKoQ+A/AAAAAAAAAADsHmll8gQcQBzHcRzHccw/GFjiS7Za4D9DzUkgLtTsPxLaS2gvof0/\"}, \"type\": \"bar\"}, {\"hoverinfo\": \"text\", \"hovertext\": [\"<b>Topic 14</b><br>Words: partis politiques syndicats, monsieur monsieur, idées front antiraciste, antiraciste voulez monter, faire coordination nationale\", \"<b>Topic 14</b><br>Words: aucun camps retrouve, aujourd'hui choisissez camp, droite retrouve vraiment, socialiste etc. gouvernement, important aujourd'hui choisissez\", \"<b>Topic 14</b><br>Words: temps années rassembler, niveau -là choses, ensemble mal temps, ensemble années sûr, habitude vivre ensemble\", \"<b>Topic 14</b><br>Words: chose voudrais demander, tse tung disait, poisson eau rentre, demander youssef ben, faire choses êtes\", \"<b>Topic 14</b><br>Words: forum social quartiers, social quartiers populaires, réseau national quartiers, vaud-en-velin moment assises, civile française savons\", \"<b>Topic 14</b><br>Words: monter isabelle voudrais, voulez monter isabelle, isabelle voudrais quitter, thème commandant cousteau, voudrais quitter poser\", \"<b>Topic 14</b><br>Words: récupération, csl, partis politiques syndicats, remarque, monsieur monsieur\", \"<b>Topic 14</b><br>Words: régler affaire banderoles, europe formaient appellerais, renouveler histoires avions, voir renouveler histoires, politiques discussion décida\", \"<b>Topic 14</b><br>Words: su prendre dis, sévère jugement impression, peut-être su prendre, mouvement récupérer structurer, casser mouvement récupérer\", \"<b>Topic 14</b><br>Words: faire hors-piste gauche, peut-être faire hors-piste, socialiste point préciser, aujourd'hui 2017 -ce, finalement aujourd'hui 2017\", \"<b>Topic 14</b><br>Words: partis politiques syndicats, monsieur monsieur, mettre place question, place question pose, garderait collectif aller\", \"<b>Topic 14</b><br>Words: collectif faut créer, parti communiste français, voix faut rassembler, acte acte 3, actions suite non\", \"<b>Topic 14</b><br>Words: partis politiques syndicats, monsieur monsieur avez, avez heure monsieur, monsieur avez heure, monter oui bravo\", \"<b>Topic 14</b><br>Words: organisations politiques, amis poutine, fonction vote fonction, vote fonction vote, npa\", \"<b>Topic 14</b><br>Words: parti socialiste parti, gauche déclarer travail, nécessaire marche nombre, dériver raté rendez-vous, déclarer travail quotidien\", \"<b>Topic 14</b><br>Words: organismes jeunes 20, fonctionnent disait militants, associations fragiles récentes, -il moment marcheurs, militants organismes jeunes\"], \"marker\": {\"color\": \"#56B4E9\"}, \"name\": \"14_partis politiques syndicats_récupérat...\", \"orientation\": \"v\", \"visible\": \"legendonly\", \"x\": {\"dtype\": \"i2\", \"bdata\": \"vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH\"}, \"y\": {\"dtype\": \"f8\", \"bdata\": \"ILGJzrUQ+T87x7PGikjaP7dt27Zt2/Y/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALCcd4JrG9j8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANBRgS+ufvA/AAAAAAAAAAAAAAAAAAAAAIKodGTPQOQ/hDRIgzRI6j/sGMW5jlHMPwAAAAAAAAAAlR5ZEs/XxT98MXrKHT/JP9UGydKoQ+A/AAAAAAAAAACZPAHR+ereP1ZVVVVVVeU/Hu7a3mNxBEACcaHmJBDHPxLaS2gvoe0/\"}, \"type\": \"bar\"}, {\"hoverinfo\": \"text\", \"hovertext\": [\"<b>Topic 15</b><br>Words: carte 10 ans, demandent droit vote, accueillir aimerait bien, bien part dise, souhaitent rencontrer président\", \"<b>Topic 15</b><br>Words: séjour 10 ans, instauration titre unique, titre unique séjour, conseil national populations, national populations immigrées\", \"<b>Topic 15</b><br>Words: obtenir nationalité faut, dis apparemment parents, mois prison important, prison important pascua, puissent bénéficier titre\", \"<b>Topic 15</b><br>Words: carte 10 ans, questions posons soir, époque considère fonde, séjour travail résident, droit expression association\", \"<b>Topic 15</b><br>Words: ans étrangers divine, encadré marche 16, cas satisfait jeune, ans tard surnommait, contre-temps jeune génération\", \"<b>Topic 15</b><br>Words: droit vote, vote étrangers, travers parents légitimité, attentisme chose concrète, saïd bouamama droit\", \"<b>Topic 15</b><br>Words: séjour 10 ans, carte séjour 10, carte 10 ans, droit vote étrangers, étrangers non communautaires\", \"<b>Topic 15</b><br>Words: savez nation droits, évident savez nation, justice évident savez, permis société française, presque vitrine exporter\", \"<b>Topic 15</b><br>Words: carte 10 ans, application attend textes, mise application attend, ambiguë route carte, pouvoir prononcer succès\", \"<b>Topic 15</b><br>Words: droit vote étrangers, honorée ordre jour, 2012 honorée ordre, ordre jour donner, jour donner parole\", \"<b>Topic 15</b><br>Words: étrangers élections locales, vote étrangers élections, droit vote étrangers, venait crimes racistes, 83 30 ans\", \"<b>Topic 15</b><br>Words: tangible plupart marcheurs, immigrés permettre carte, fois malentendu bénéficier, bénéficier coup fils, vraiment tangible plupart\", \"<b>Topic 15</b><br>Words: carte 10 ans, séjour 10 ans, carte séjour 10, droit vote étrangers, duré mise droit\", \"<b>Topic 15</b><br>Words: droit vote étrangers, vote étrangers actualité, renouvelable droit vote, créera carte séjour, mitterrand demande créera\", \"<b>Topic 15</b><br>Words: séjour 10 ans, carte séjour 10, françois mitterrand, droit vote étrangers, promesse\", \"<b>Topic 15</b><br>Words: devenant unique disons, disons renouvelable gouvernement, unique disons renouvelable, police droit logement, logement travail éducation\"], \"marker\": {\"color\": \"#009E73\"}, \"name\": \"15_séjour 10 ans_carte 10 ans_carte séjo...\", \"orientation\": \"v\", \"visible\": \"legendonly\", \"x\": {\"dtype\": \"i2\", \"bdata\": \"vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH\"}, \"y\": {\"dtype\": \"f8\", \"bdata\": \"ILGJzrUQ6T+EXDC8Vm3wPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALCcd4JrG5j8AAAAAAAAAAD744IMPPghAAAAAAAAAGUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANBRgS+ufvA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAfMu3fMu35z/sGMW5jlHMP+ZPW2jAkv4/79bCTdth4D8dpdtXVu/iP4pIeweTVOQ/AAAAAAAAAAAAAAAAAAAAABzHcRzHcew/GFjiS7Za8D/CFPmsG0zhPxLaS2gvoe0/\"}, \"type\": \"bar\"}, {\"hoverinfo\": \"text\", \"hovertext\": [\"<b>Topic 16</b><br>Words: vient recoller fragments, valeur devenir lieu, raconté immigration tué, aujourd'hui concentrés mission, universitaires continué travailler\", \"<b>Topic 16</b><br>Words: transmission, programmes, héritage, transmettre, commémoration\", \"<b>Topic 16</b><br>Words: revendication mémoire partie, mémoire partie intégrante, égalité inscrit politique, affiche marche égalité, liées manière générale\", \"<b>Topic 16</b><br>Words: mémorielle, faut penser, perçu, transmission, histoire éducation nationale\", \"<b>Topic 16</b><br>Words: collectivement essaie moyens, éducation nationale sais, responsabilité individuelle collective, transmission voie orale, responsabilité part responsabilité\", \"<b>Topic 16</b><br>Words: déterrée passe démonstration, dimensions structurelles mise, structurelles mise évidence, passe oui parles, évidemment passe oui\", \"<b>Topic 16</b><br>Words: mémoire, faire contextes, volonté transmettre chose, permanent république finalement, heureuse vois relève\", \"<b>Topic 16</b><br>Words: demande comptes trahi, continuent trahir aujourd'hui, époque chose adn, fondamental titre individuel, époque continuent trahir\", \"<b>Topic 16</b><br>Words: manuels scolaires, récit collectif récit, récit histoire complet, chose extrêmement important, chose lancer appel\"], \"marker\": {\"color\": \"#F0E442\"}, \"name\": \"16_transmission_programmes_transmettre_r...\", \"orientation\": \"v\", \"visible\": \"legendonly\", \"x\": {\"dtype\": \"i2\", \"bdata\": \"vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH\"}, \"y\": {\"dtype\": \"f8\", \"bdata\": \"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAfBphuacRBkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQRqkQRqk6T/sGMW5jlHcPwAAAAAAAAAA79bCTdth8D98MXrKHT/ZP9UGydKoQ8A/AAAAAAAAAAAAAAAAAAAAAHIcx3Ecx/E/GFjiS7Za8D/iQs1JIC7kPwAAAAAAAAAA\"}, \"type\": \"bar\"}, {\"hoverinfo\": \"text\", \"hovertext\": [\"<b>Topic 17</b><br>Words: blessé coup couteau, policier été légèrement, moment essayaient mettre, commissariat police jeunes, police garée sous-sol\", \"<b>Topic 17</b><br>Words: été mis sellette, secteur zub minguettes, prise compte situations, république changement gouvernement, changement gouvernement france\", \"<b>Topic 17</b><br>Words: événements durs affrontement, 82 83 mois, durs affrontement forces, forces ordre jeunes, ordre jeunes partie\", \"<b>Topic 17</b><br>Words: demeurent tours vident, 000 habitants équipements, muré parallèlement vénissieux, équipements collectifs promis, profite envoyer banlieue\", \"<b>Topic 17</b><br>Words: minuit jeunes courent, essuyé tirs fusils, habitants réveillés détonations, ministre intérieur appliquer, estime utile tensions\", \"<b>Topic 17</b><br>Words: 1981 début fameux, tour cité voitures, jeunes tour cité, explosion lieu 10, découvre coup malaise\", \"<b>Topic 17</b><br>Words: police minguet dégénère, descente police minguet, minguet dégénère affrontement, incapable assurer sécurité, jeunes banlieues policiers\", \"<b>Topic 17</b><br>Words: alliomarie souhaite remobiliser, groupes intervention régionaux, gir gir groupes, manifestation précédé incendie, gir groupes intervention\", \"<b>Topic 17</b><br>Words: incidents, forces ordre, jeunes minguettes, 21 mars, brûler\", \"<b>Topic 17</b><br>Words: ensuite été vraiment, révoltes étendues villes, jour nuit voitures, clichy-sous-bois jour nuit, descendu rue jeune\", \"<b>Topic 17</b><br>Words: affrontement police 28, 28 21 mars, police 28 21, mars 1963 minguet, 1963 minguet gros\", \"<b>Topic 17</b><br>Words: poubelles voitures tension, voitures tension souffrance, accumulée frustration problème, anarchie ans minguettes, minguettes vaud-en-velin ville\", \"<b>Topic 17</b><br>Words: attitude effectivement déviante, consistaient brûler voitures, quartier habitait effectivement, voitures quartier habitait, violences urbaines consistaient\", \"<b>Topic 17</b><br>Words: policiers, septembre 1981, jeunes quartier, vaud-en-velin, émeute\", \"<b>Topic 17</b><br>Words: nuit dernière 2h, partir policiers jeunes, grillé feux rouges, policiers prennent chasse, dernière 2h matin\", \"<b>Topic 17</b><br>Words: vient remporter succès, idée émané curé, voire crimes racistes, pouvoir front national, lyon mois climat\", \"<b>Topic 17</b><br>Words: fourgons, quartier montmousseau, 81, quartier minguettes, 1981\", \"<b>Topic 17</b><br>Words: blessé nuit dernière, légèrement blessé nuit, explose immeuble 3, état 34 personnes, relogées parents amis\"], \"marker\": {\"color\": \"#D55E00\"}, \"name\": \"17_incidents_forces ordre_émeutes_brûler...\", \"orientation\": \"v\", \"visible\": \"legendonly\", \"x\": {\"dtype\": \"i2\", \"bdata\": \"vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH\"}, \"y\": {\"dtype\": \"f8\", \"bdata\": \"wSCxic610D87x7PGikjaPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALCcd4JrG1j8AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALn6QUcFvvg/IdEKmwOJ5j80SIM0SIMEQIKodGTPQOQ/shM7sRM70z/sGMW5jlHcPwAAAAAAAAAAlR5ZEs/XxT8dpdtXVu/iP9UGydKoQ+A/AAAAAAAAAADgxaAi3FIDQBzHcRzHcew/y8otZUjOxT/iQs1JIC7kPxLaS2gvof0/\"}, \"type\": \"bar\"}], \"layout\": {\"template\": {\"data\": {\"barpolar\": [{\"marker\": {\"line\": {\"color\": \"white\", \"width\": 0.5}, \"pattern\": {\"fillmode\": \"overlay\", \"size\": 10, \"solidity\": 0.2}}, \"type\": \"barpolar\"}], \"bar\": [{\"error_x\": {\"color\": \"rgb(36,36,36)\"}, \"error_y\": {\"color\": \"rgb(36,36,36)\"}, \"marker\": {\"line\": {\"color\": \"white\", \"width\": 0.5}, \"pattern\": {\"fillmode\": \"overlay\", \"size\": 10, \"solidity\": 0.2}}, \"type\": \"bar\"}], \"carpet\": [{\"aaxis\": {\"endlinecolor\": \"rgb(36,36,36)\", \"gridcolor\": \"white\", \"linecolor\": \"white\", \"minorgridcolor\": \"white\", \"startlinecolor\": \"rgb(36,36,36)\"}, \"baxis\": {\"endlinecolor\": \"rgb(36,36,36)\", \"gridcolor\": \"white\", \"linecolor\": \"white\", \"minorgridcolor\": \"white\", \"startlinecolor\": \"rgb(36,36,36)\"}, \"type\": \"carpet\"}], \"choropleth\": [{\"colorbar\": {\"outlinewidth\": 1, \"tickcolor\": \"rgb(36,36,36)\", \"ticks\": \"outside\"}, \"type\": \"choropleth\"}], \"contourcarpet\": [{\"colorbar\": {\"outlinewidth\": 1, \"tickcolor\": \"rgb(36,36,36)\", \"ticks\": \"outside\"}, \"type\": \"contourcarpet\"}], \"contour\": [{\"colorbar\": {\"outlinewidth\": 1, \"tickcolor\": \"rgb(36,36,36)\", \"ticks\": \"outside\"}, \"colorscale\": [[0.0, \"#440154\"], [0.1111111111111111, \"#482878\"], [0.2222222222222222, \"#3e4989\"], [0.3333333333333333, \"#31688e\"], [0.4444444444444444, \"#26828e\"], [0.5555555555555556, \"#1f9e89\"], [0.6666666666666666, \"#35b779\"], [0.7777777777777778, \"#6ece58\"], [0.8888888888888888, \"#b5de2b\"], [1.0, \"#fde725\"]], \"type\": \"contour\"}], \"heatmap\": [{\"colorbar\": {\"outlinewidth\": 1, \"tickcolor\": \"rgb(36,36,36)\", \"ticks\": \"outside\"}, \"colorscale\": [[0.0, \"#440154\"], [0.1111111111111111, \"#482878\"], [0.2222222222222222, \"#3e4989\"], [0.3333333333333333, \"#31688e\"], [0.4444444444444444, \"#26828e\"], [0.5555555555555556, \"#1f9e89\"], [0.6666666666666666, \"#35b779\"], [0.7777777777777778, \"#6ece58\"], [0.8888888888888888, \"#b5de2b\"], [1.0, \"#fde725\"]], \"type\": \"heatmap\"}], \"histogram2dcontour\": [{\"colorbar\": {\"outlinewidth\": 1, \"tickcolor\": \"rgb(36,36,36)\", \"ticks\": \"outside\"}, \"colorscale\": [[0.0, \"#440154\"], [0.1111111111111111, \"#482878\"], [0.2222222222222222, \"#3e4989\"], [0.3333333333333333, \"#31688e\"], [0.4444444444444444, \"#26828e\"], [0.5555555555555556, \"#1f9e89\"], [0.6666666666666666, \"#35b779\"], [0.7777777777777778, \"#6ece58\"], [0.8888888888888888, \"#b5de2b\"], [1.0, \"#fde725\"]], \"type\": \"histogram2dcontour\"}], \"histogram2d\": [{\"colorbar\": {\"outlinewidth\": 1, \"tickcolor\": \"rgb(36,36,36)\", \"ticks\": \"outside\"}, \"colorscale\": [[0.0, \"#440154\"], [0.1111111111111111, \"#482878\"], [0.2222222222222222, \"#3e4989\"], [0.3333333333333333, \"#31688e\"], [0.4444444444444444, \"#26828e\"], [0.5555555555555556, \"#1f9e89\"], [0.6666666666666666, \"#35b779\"], [0.7777777777777778, \"#6ece58\"], [0.8888888888888888, \"#b5de2b\"], [1.0, \"#fde725\"]], \"type\": \"histogram2d\"}], \"histogram\": [{\"marker\": {\"line\": {\"color\": \"white\", \"width\": 0.6}}, \"type\": \"histogram\"}], \"mesh3d\": [{\"colorbar\": {\"outlinewidth\": 1, \"tickcolor\": \"rgb(36,36,36)\", \"ticks\": \"outside\"}, \"type\": \"mesh3d\"}], \"parcoords\": [{\"line\": {\"colorbar\": {\"outlinewidth\": 1, \"tickcolor\": \"rgb(36,36,36)\", \"ticks\": \"outside\"}}, \"type\": \"parcoords\"}], \"pie\": [{\"automargin\": true, \"type\": \"pie\"}], \"scatter3d\": [{\"line\": {\"colorbar\": {\"outlinewidth\": 1, \"tickcolor\": \"rgb(36,36,36)\", \"ticks\": \"outside\"}}, \"marker\": {\"colorbar\": {\"outlinewidth\": 1, \"tickcolor\": \"rgb(36,36,36)\", \"ticks\": \"outside\"}}, \"type\": \"scatter3d\"}], \"scattercarpet\": [{\"marker\": {\"colorbar\": {\"outlinewidth\": 1, \"tickcolor\": \"rgb(36,36,36)\", \"ticks\": \"outside\"}}, \"type\": \"scattercarpet\"}], \"scattergeo\": [{\"marker\": {\"colorbar\": {\"outlinewidth\": 1, \"tickcolor\": \"rgb(36,36,36)\", \"ticks\": \"outside\"}}, \"type\": \"scattergeo\"}], \"scattergl\": [{\"marker\": {\"colorbar\": {\"outlinewidth\": 1, \"tickcolor\": \"rgb(36,36,36)\", \"ticks\": \"outside\"}}, \"type\": \"scattergl\"}], \"scattermapbox\": [{\"marker\": {\"colorbar\": {\"outlinewidth\": 1, \"tickcolor\": \"rgb(36,36,36)\", \"ticks\": \"outside\"}}, \"type\": \"scattermapbox\"}], \"scattermap\": [{\"marker\": {\"colorbar\": {\"outlinewidth\": 1, \"tickcolor\": \"rgb(36,36,36)\", \"ticks\": \"outside\"}}, \"type\": \"scattermap\"}], \"scatterpolargl\": [{\"marker\": {\"colorbar\": {\"outlinewidth\": 1, \"tickcolor\": \"rgb(36,36,36)\", \"ticks\": \"outside\"}}, \"type\": \"scatterpolargl\"}], \"scatterpolar\": [{\"marker\": {\"colorbar\": {\"outlinewidth\": 1, \"tickcolor\": \"rgb(36,36,36)\", \"ticks\": \"outside\"}}, \"type\": \"scatterpolar\"}], \"scatter\": [{\"fillpattern\": {\"fillmode\": \"overlay\", \"size\": 10, \"solidity\": 0.2}, \"type\": \"scatter\"}], \"scatterternary\": [{\"marker\": {\"colorbar\": {\"outlinewidth\": 1, \"tickcolor\": \"rgb(36,36,36)\", \"ticks\": \"outside\"}}, \"type\": \"scatterternary\"}], \"surface\": [{\"colorbar\": {\"outlinewidth\": 1, \"tickcolor\": \"rgb(36,36,36)\", \"ticks\": \"outside\"}, \"colorscale\": [[0.0, \"#440154\"], [0.1111111111111111, \"#482878\"], [0.2222222222222222, \"#3e4989\"], [0.3333333333333333, \"#31688e\"], [0.4444444444444444, \"#26828e\"], [0.5555555555555556, \"#1f9e89\"], [0.6666666666666666, \"#35b779\"], [0.7777777777777778, \"#6ece58\"], [0.8888888888888888, \"#b5de2b\"], [1.0, \"#fde725\"]], \"type\": \"surface\"}], \"table\": [{\"cells\": {\"fill\": {\"color\": \"rgb(237,237,237)\"}, \"line\": {\"color\": \"white\"}}, \"header\": {\"fill\": {\"color\": \"rgb(217,217,217)\"}, \"line\": {\"color\": \"white\"}}, \"type\": \"table\"}]}, \"layout\": {\"annotationdefaults\": {\"arrowhead\": 0, \"arrowwidth\": 1}, \"autotypenumbers\": \"strict\", \"coloraxis\": {\"colorbar\": {\"outlinewidth\": 1, \"tickcolor\": \"rgb(36,36,36)\", \"ticks\": \"outside\"}}, \"colorscale\": {\"diverging\": [[0.0, \"rgb(103,0,31)\"], [0.1, \"rgb(178,24,43)\"], [0.2, \"rgb(214,96,77)\"], [0.3, \"rgb(244,165,130)\"], [0.4, \"rgb(253,219,199)\"], [0.5, \"rgb(247,247,247)\"], [0.6, \"rgb(209,229,240)\"], [0.7, \"rgb(146,197,222)\"], [0.8, \"rgb(67,147,195)\"], [0.9, \"rgb(33,102,172)\"], [1.0, \"rgb(5,48,97)\"]], \"sequential\": [[0.0, \"#440154\"], [0.1111111111111111, \"#482878\"], [0.2222222222222222, \"#3e4989\"], [0.3333333333333333, \"#31688e\"], [0.4444444444444444, \"#26828e\"], [0.5555555555555556, \"#1f9e89\"], [0.6666666666666666, \"#35b779\"], [0.7777777777777778, \"#6ece58\"], [0.8888888888888888, \"#b5de2b\"], [1.0, \"#fde725\"]], \"sequentialminus\": [[0.0, \"#440154\"], [0.1111111111111111, \"#482878\"], [0.2222222222222222, \"#3e4989\"], [0.3333333333333333, \"#31688e\"], [0.4444444444444444, \"#26828e\"], [0.5555555555555556, \"#1f9e89\"], [0.6666666666666666, \"#35b779\"], [0.7777777777777778, \"#6ece58\"], [0.8888888888888888, \"#b5de2b\"], [1.0, \"#fde725\"]]}, \"colorway\": [\"#1F77B4\", \"#FF7F0E\", \"#2CA02C\", \"#D62728\", \"#9467BD\", \"#8C564B\", \"#E377C2\", \"#7F7F7F\", \"#BCBD22\", \"#17BECF\"], \"font\": {\"color\": \"rgb(36,36,36)\"}, \"geo\": {\"bgcolor\": \"white\", \"lakecolor\": \"white\", \"landcolor\": \"white\", \"showlakes\": true, \"showland\": true, \"subunitcolor\": \"white\"}, \"hoverlabel\": {\"align\": \"left\"}, \"hovermode\": \"closest\", \"mapbox\": {\"style\": \"light\"}, \"paper_bgcolor\": \"white\", \"plot_bgcolor\": \"white\", \"polar\": {\"angularaxis\": {\"gridcolor\": \"rgb(232,232,232)\", \"linecolor\": \"rgb(36,36,36)\", \"showgrid\": false, \"showline\": true, \"ticks\": \"outside\"}, \"bgcolor\": \"white\", \"radialaxis\": {\"gridcolor\": \"rgb(232,232,232)\", \"linecolor\": \"rgb(36,36,36)\", \"showgrid\": false, \"showline\": true, \"ticks\": \"outside\"}}, \"scene\": {\"xaxis\": {\"backgroundcolor\": \"white\", \"gridcolor\": \"rgb(232,232,232)\", \"gridwidth\": 2, \"linecolor\": \"rgb(36,36,36)\", \"showbackground\": true, \"showgrid\": false, \"showline\": true, \"ticks\": \"outside\", \"zeroline\": false, \"zerolinecolor\": \"rgb(36,36,36)\"}, \"yaxis\": {\"backgroundcolor\": \"white\", \"gridcolor\": \"rgb(232,232,232)\", \"gridwidth\": 2, \"linecolor\": \"rgb(36,36,36)\", \"showbackground\": true, \"showgrid\": false, \"showline\": true, \"ticks\": \"outside\", \"zeroline\": false, \"zerolinecolor\": \"rgb(36,36,36)\"}, \"zaxis\": {\"backgroundcolor\": \"white\", \"gridcolor\": \"rgb(232,232,232)\", \"gridwidth\": 2, \"linecolor\": \"rgb(36,36,36)\", \"showbackground\": true, \"showgrid\": false, \"showline\": true, \"ticks\": \"outside\", \"zeroline\": false, \"zerolinecolor\": \"rgb(36,36,36)\"}}, \"shapedefaults\": {\"fillcolor\": \"black\", \"line\": {\"width\": 0}, \"opacity\": 0.3}, \"ternary\": {\"aaxis\": {\"gridcolor\": \"rgb(232,232,232)\", \"linecolor\": \"rgb(36,36,36)\", \"showgrid\": false, \"showline\": true, \"ticks\": \"outside\"}, \"baxis\": {\"gridcolor\": \"rgb(232,232,232)\", \"linecolor\": \"rgb(36,36,36)\", \"showgrid\": false, \"showline\": true, \"ticks\": \"outside\"}, \"bgcolor\": \"white\", \"caxis\": {\"gridcolor\": \"rgb(232,232,232)\", \"linecolor\": \"rgb(36,36,36)\", \"showgrid\": false, \"showline\": true, \"ticks\": \"outside\"}}, \"title\": {\"x\": 0.05}, \"xaxis\": {\"automargin\": true, \"gridcolor\": \"rgb(232,232,232)\", \"linecolor\": \"rgb(36,36,36)\", \"showgrid\": false, \"showline\": true, \"ticks\": \"outside\", \"title\": {\"standoff\": 15}, \"zeroline\": false, \"zerolinecolor\": \"rgb(36,36,36)\"}, \"yaxis\": {\"automargin\": true, \"gridcolor\": \"rgb(232,232,232)\", \"linecolor\": \"rgb(36,36,36)\", \"showgrid\": false, \"showline\": true, \"ticks\": \"outside\", \"title\": {\"standoff\": 15}, \"zeroline\": false, \"zerolinecolor\": \"rgb(36,36,36)\"}}}, \"xaxis\": {\"showgrid\": true, \"title\": {\"text\": \"Année\"}, \"dtick\": \"Y1\", \"tickangle\": 45}, \"yaxis\": {\"showgrid\": true, \"title\": {\"text\": \"Proportion du topic\"}, \"automargin\": true}, \"title\": {\"font\": {\"size\": 22, \"color\": \"Black\"}, \"text\": \"Topic proportion per year<br><span style=\\\"font-size: 12pt;\\\">(Percentage of documents assigned to topic T for year Y)</span><br><span style=\\\"font-size: 12pt;\\\">Parameters : chunk_lgc_token, 64 components / 145 neighbors / 78 docs min per cluster</span>\", \"y\": 0.95, \"x\": 0.4, \"xanchor\": \"center\", \"yanchor\": \"top\"}, \"hoverlabel\": {\"font\": {\"size\": 16, \"family\": \"Rockwell\"}, \"bgcolor\": \"white\"}, \"width\": 1250, \"height\": 900, \"legend\": {\"title\": {\"text\": \"<b>Global Topic Representation\"}}, \"margin\": {\"t\": 120, \"l\": 80, \"r\": 320, \"b\": 60}}}"
+{
+  "data": [
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        "<b>Topic -1</b><br>Words: roues roues roues, kilomètres, frères, mélange, bastille",
+        "<b>Topic -1</b><br>Words: prison, formation, liberté, chômage, mosaïque",
+        "<b>Topic -1</b><br>Words: travail intérêt général, couleurs, val-fouré, dessin, art",
+        "<b>Topic -1</b><br>Words: sonne bien français, nom sonne bien, été élue français, tôt équipe lève, julien sorel êtes",
+        "<b>Topic -1</b><br>Words: cinéma, histoire polonais arméniens, regrette ici ara, ministre accueilli idée, réalité tiré leçon",
+        "<b>Topic -1</b><br>Words: notion, acceptez, temps gouvernement, étrangers france, majorité français",
+        "<b>Topic -1</b><br>Words: chapelle, communautaire, mensonges, père christian delorme, mémoire",
+        "<b>Topic -1</b><br>Words: tours, smaïn smaïn smaïn, qualités, molière, louis",
+        "<b>Topic -1</b><br>Words: dossier, million, nuit jour, passer veaux moutons, travailler envoyer argent",
+        "<b>Topic -1</b><br>Words: petits frères, histoire france, plein plein plein, habite minguettes, intérim",
+        "<b>Topic -1</b><br>Words: discrimination positive, amertume, fondateur, farida, fatima",
+        "<b>Topic -1</b><br>Words: penser domaine économique, manifestation prête feuilleton, paris insensé démarche, versé pourtant sueur, prise conscience identitaire",
+        "<b>Topic -1</b><br>Words: eau eau eau, musée, appelle beur, films, cinéaste",
+        "<b>Topic -1</b><br>Words: face-à-face, secteurs, grévistes, région lyonnaise, hasard",
+        "<b>Topic -1</b><br>Words: fadela amara, pute soumise, indigènes, grève faim, diversité",
+        "<b>Topic -1</b><br>Words: islam, ramadan, pratique, religieux, palestiniens",
+        "<b>Topic -1</b><br>Words: direction, face-à-face, talbots, grévistes, marche pacifique",
+        "<b>Topic -1</b><br>Words: nokia, nicolas sarkozy, europe, 7, bourses",
+        "<b>Topic -1</b><br>Words: mémoire, crimes racistes, égalité droits, martin luther king, non non",
+        "<b>Topic -1</b><br>Words: etats-unis, francophonie, christiane taubira, liberté, frontal",
+        "<b>Topic -1</b><br>Words: justice paix, marche dignité, verbier, crvi, populations issues immigration",
+        "<b>Topic -1</b><br>Words: etats-unis, martin luther king, mémoire, blancs, liberté",
+        "<b>Topic -1</b><br>Words: gilbert, gilles, mère, pen, non non",
+        "<b>Topic -1</b><br>Words: euh, haine, non jeune non, jeune non jeune, bonjour",
+        "<b>Topic -1</b><br>Words: boîte nuit, mali, mot beur, filles, afrique",
+        "<b>Topic -1</b><br>Words: marque, procès, bonjour, papier, frère",
+        "<b>Topic -1</b><br>Words: 17 octobre, mémoire, cheveux, luttes, fille",
+        "<b>Topic -1</b><br>Words: 2005, téléphone, crimes racistes, sms, mort",
+        "<b>Topic -1</b><br>Words: mort, martin luther king, documentaire, the, mémoire",
+        "<b>Topic -1</b><br>Words: ro ro manie, manie ro ro, ro manie ro, mort, chanson"
+      ],
+      "marker": {
+        "color": "#E69F00"
+      },
+      "name": "-1_mémoire_mort_bonjour_liberté",
+      "orientation": "v",
+      "visible": true,
+      "x": {
+        "dtype": "i2",
+        "bdata": "vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "pPbxaqDwTkD5wRnZJYhSQJMkSZIkSVNAAAAAAAAAWUCrqqqqqqpKQAAAAAAAAFRADZkYrZI3U0AAAAAAAMBVQG2yySabbFFAAAAAAADgVUAAAAAAAABTQAAAAAAAAE5A1AjLPY2wTkABAAAAAABMQEpkGrabZVFAejJ+u9QTUUC4fMu3fMtFQEpH9gxEJVNAIA3SIA3mUUBLTy2s9BRTQAYs6eVPW1FAAVPNMXs3UkCyEzuxEztTQF67QAPyiFFABKHKYA+9S0CCuXZgrh1SQI7jOI7jOFBAxTQ10pq3UUDnJBAXao5RQOQ4juM4jk5A"
+      },
+      "type": "bar"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        "<b>Topic 0</b><br>Words: après-midi, kilomètres, place bastille, 100 000 personnes, 3 décembre paris",
+        "<b>Topic 0</b><br>Words: convergence 84, mobylette, france mobilette avancer, roule nuit, étape",
+        "<b>Topic 0</b><br>Words: salam salam salam, longue marche, 7 décembre prochain, division, convergence 84",
+        "<b>Topic 0</b><br>Words: équation immigrés égale, jeunes beurs marchent, chômage thème immigration, français 100 000, immigrés égale insécurité",
+        "<b>Topic 0</b><br>Words: 000 personnes rues, 100 000 personnes, soutien, faire marche, 17",
+        "<b>Topic 0</b><br>Words: fois seconde génération, seconde génération manifeste, politique française petit, beurs quartier minguettes, française petit petit",
+        "<b>Topic 0</b><br>Words: pied paris 100, enfants appelle beurs, 000 personnes triomphe, fils immigrés plupart, 83 patrick porte",
+        "<b>Topic 0</b><br>Words: 100 000 personnes, jean-pierre raffarin reçoit, lambris, manifestation 100 000, reçu président",
+        "<b>Topic 0</b><br>Words: réuni effectivement manifestation, kilomètres marche cas, rangs gonflent personnalités, réussi fur mesure, violents loupards kilomètre",
+        "<b>Topic 0</b><br>Words: simplement excluent jeunes, signal fort plan, culturel france terre, musée immigration france, plan culturel france",
+        "<b>Topic 0</b><br>Words: 100 000 personnes, opposent immigrés maîtresse, nucnuc trentaine origine, jean-marc nucnuc trentaine, immigrés maîtresse française",
+        "<b>Topic 0</b><br>Words: marche passée clermont, étape, clermont oui mouvements, 1983 jeunes immigrés, oui mouvements partout",
+        "<b>Topic 0</b><br>Words: racisme enfants été, victimes racisme enfants, long parcours marche, parcours marche appelle, été tués grandes",
+        "<b>Topic 0</b><br>Words: 100 000 personnes, 32, élection, désordre, racisme voit aujourd'hui",
+        "<b>Topic 0</b><br>Words: bordeaux, 100 000 personnes, 7 décembre prochain, charte, longue marche",
+        "<b>Topic 0</b><br>Words: 100 000 personnes, kilomètres, françois mitterrand, marseille paris, 15 octobre 1983",
+        "<b>Topic 0</b><br>Words: 15 octobre, 100 000 personnes, grenoble, elysée, habib ghandi",
+        "<b>Topic 0</b><br>Words: 100 000 personnes, angela davis, marche dignité, 31 octobre barbès, beurs collectif femmes",
+        "<b>Topic 0</b><br>Words: 3 décembre, symbolique, retrouvés 150 000, partis marseille jeunes, présent marseille lilian",
+        "<b>Topic 0</b><br>Words: marseille arrivant aujourd'hui, 32 marseille arrivant, jeunes noirs pays, pays partis 32, immigrés français immigrés",
+        "<b>Topic 0</b><br>Words: mois demi, marseille 15 octobre, étapes, étape, délégation",
+        "<b>Topic 0</b><br>Words: égalité renommée marche, racisme égalité renommée, beurs marseille 15, point ailleurs marche, marche beurs marseille",
+        "<b>Topic 0</b><br>Words: marche nationale, prépare, axes, villes france, 15 octobre",
+        "<b>Topic 0</b><br>Words: paris 3 décembre, 100 000 personnes, marseille 15 octobre, étape, comités soutien",
+        "<b>Topic 0</b><br>Words: marseille 15 octobre, étape, aujourd'hui nombre personnes, voit aujourd'hui nombre, message paix message",
+        "<b>Topic 0</b><br>Words: 100 000 personnes, étape, strasbourg, elysée, kilomètres",
+        "<b>Topic 0</b><br>Words: 40 ans marche, porte-parole marche 1983, suivi marche début, nord pied loin, quartiers nord pied"
+      ],
+      "marker": {
+        "color": "#56B4E9"
+      },
+      "name": "0_100 000 personnes_étape_kilomètres_éta...",
+      "orientation": "v",
+      "visible": "legendonly",
+      "x": {
+        "dtype": "i2",
+        "bdata": "vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AwQGiU10NkAasKcXNS0WQCRJkiRJkhxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACRAYt0VKPQUEUAAAAAAAAAAAE422WSTTR5AAAAAAAAAGUBWVVVVVVUlQAAAAAAAAERAfBphuacR5j8AAAAAAAAwQESmYbtZniRA/HapJ+O3A0BIgzRIgzQ8QKLSkT0DUSlAqqqqqqrKE0BbWOmphZUSQO17RE4Q7iZAOmbv1sJN+z+T1CGnD9MKQC4hPtvq2hVA07UVOGadBkAGFeGWmg0LQMdxHMdxHCNAb8YLjygJEUD9jl4Z2+8gQC+hvYT2EihA"
+      },
+      "type": "bar"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        "<b>Topic 1</b><br>Words: atelier imprimerie clandestine, police découvert domicile, 11 ans masemba, badian 12 ans, erreur pilotage toufiq",
+        "<b>Topic 1</b><br>Words: toumi djaïdja, policier, association sos, vol, 15 mois prison",
+        "<b>Topic 1</b><br>Words: été vite étouffée, ouskine posait ricochet, jeune étudiant beur, démocratie beaucoup perdu, posait ricochet français",
+        "<b>Topic 1</b><br>Words: mort tombé bras, réunissant 7000 personnes, tribunaux sanctionnaient vraiment, ans tribunaux sanctionnaient, parlé 10 ans",
+        "<b>Topic 1</b><br>Words: ans tué, crimes racistes, chien, ombrile vivre mémoire, 1982 ouedia chichi",
+        "<b>Topic 1</b><br>Words: ans tué, 17 décembre 97, chien, tiré, gamin",
+        "<b>Topic 1</b><br>Words: chien, policier, khaled kalkal, voiture, gamin",
+        "<b>Topic 1</b><br>Words: ans tué, fanantère 1982 wadia, 4 ans énormément, rien marseille 2, crimes racistes rien",
+        "<b>Topic 1</b><br>Words: delorme penser marche, longue transversale verquist, transversale verquist gzuereb, verquist gzuereb pointe, pointe dernier but",
+        "<b>Topic 1</b><br>Words: tiré, algérien, meurtres, bruit, 17 ans",
+        "<b>Topic 1</b><br>Words: tué, mort, assassiné, chien policier, cris",
+        "<b>Topic 1</b><br>Words: issu immigration avoue, faire sauter usine, julien andré faire, froid soir froid, tard région lyonnaise",
+        "<b>Topic 1</b><br>Words: marche 3 jours, climat guillemets violence, tirer survit lu, mobilisation toumi djaïdja, 1973 3 jours",
+        "<b>Topic 1</b><br>Words: faut faire attention, niveau éducation, balle, acharnement rappelle peut-être, tué temps bien",
+        "<b>Topic 1</b><br>Words: pam, tiré, 26 ans, tué, bruit",
+        "<b>Topic 1</b><br>Words: chien, habib grimsy, 113, vitre, balle",
+        "<b>Topic 1</b><br>Words: tombé yeux blanchis, jours coup feu, fuse peut-être coups, allait vivre abdomen, insulté vivement",
+        "<b>Topic 1</b><br>Words: crimes racistes, blessé, tuer, balle cour neuf, 10 ans tué",
+        "<b>Topic 1</b><br>Words: chien, mort, balle, gamin, bruit",
+        "<b>Topic 1</b><br>Words: voiture, frère été abattu, tir, mort, tirer"
+      ],
+      "marker": {
+        "color": "#009E73"
+      },
+      "name": "1_mort_tiré_toumi djaïdja_bruit",
+      "orientation": "v",
+      "visible": "legendonly",
+      "x": {
+        "dtype": "i2",
+        "bdata": "vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "wSCxic618D+++mUSmz8RQAAAAAAAAAAAAAAAAAAAAACrqqqqqqoaQAAAAAAAAAAAYt0VKPQU8T8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwQESmYbtZnhRARCtsDiRaGUBBGqRBGqQpQMP8rhY3Yf4/XL7lW75l9z+TLxs0+bIRQJqK55rVYfQ/lR5ZEs/X5T9M6yoROhf2P2Vp1CEIXfY/AAAAAAAAAADsHmll8gQMQHIcx3Ecx/E/chGIWH8UA0CWsf2OXhkTQC+hvYT2EihA"
+      },
+      "type": "bar"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        "<b>Topic 2</b><br>Words: -ce avez pouvoir, mosquée donnée tour, donnée tour faut, jeunes voyaient voyaient, familles bon vécu",
+        "<b>Topic 2</b><br>Words: voile, faire boulot éducateurs, montée islam, question islam, dommage",
+        "<b>Topic 2</b><br>Words: aiment habiller finissent, franchement femme maghrébine, portent voile aiment, apprendre envie épanouir, vite homme envie",
+        "<b>Topic 2</b><br>Words: femme inculte femme, véhiculer cliché femme, cliché femme soumise, soumise femme inculte, inculte femme battue",
+        "<b>Topic 2</b><br>Words: rapport mosquées, excuserez combat pose, polygamie excuserez combat, quartiers etc. confisquer, quartiers mariages forcés",
+        "<b>Topic 2</b><br>Words: religieux, affaire voile, non-musulmans, religieuse, laïcité",
+        "<b>Topic 2</b><br>Words: voile, foulard, laïcité, islam religion, religieux",
+        "<b>Topic 2</b><br>Words: croyants, -ce savez, m. dimension construction, actes policiers inquiétude, mosquée roman isère",
+        "<b>Topic 2</b><br>Words: jeunes assis religieusement, assis religieusement jeunes, religieusement jeunes assis, réponses questions côté, voir -ce passe",
+        "<b>Topic 2</b><br>Words: voile, foulard, islamophobe, mosquée, laïcité",
+        "<b>Topic 2</b><br>Words: islam religion, brosser beaux cheveux, foulard, hostilités, volontairement",
+        "<b>Topic 2</b><br>Words: voilée accompagne gamin, femme voilée accompagne, mosquée local, mosquée mosquée, discuté jeunes",
+        "<b>Topic 2</b><br>Words: islam, ethniciser rapports sociaux, musulmans, voilée, figure",
+        "<b>Topic 2</b><br>Words: islam, mettre côté barrière, femmes ailleurs portaient, similaire compliqué antrisme, femmes appliquait femmes",
+        "<b>Topic 2</b><br>Words: islam, religion, voile, musulmans, romand",
+        "<b>Topic 2</b><br>Words: islam, religion, corps femmes, foulard, voile voile",
+        "<b>Topic 2</b><br>Words: terrorisme, mosquée, islam religion, foulard, chose rattache"
+      ],
+      "marker": {
+        "color": "#F0E442"
+      },
+      "name": "2_foulard_religieux_-ce avez pouvoir_laï...",
+      "orientation": "v",
+      "visible": "legendonly",
+      "x": {
+        "dtype": "i2",
+        "bdata": "vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "wSCxic618D8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA3RUo9BRRD0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABWVVVVVVX1PwAAAAAAAAAAfBphuacR5j8AAAAAAAAAALn6QUcFvvg/lPHbpZ6MMEAAAAAAAAAAAAAAAAAAAAAAxU7sxE7s+j+TLxs0+bLxP0aZiuea1RFAcnkRfArkF0A0SIM0SIMEQD+KLTx9Zeg/alFSP84UI0AGFeGWmg3rP+Q4juM4jhNAy8otZUjOBUBj+x29MrbvPwAAAAAAAAAA"
+      },
+      "type": "bar"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        "<b>Topic 3</b><br>Words: lyon ouais villefranche-sur-saône, armes europe moyen-orient, bulletin information nationale, occasion loge maçonnique, bien oh bien",
+        "<b>Topic 3</b><br>Words: alex, maxime, bienvenue, oh, salut",
+        "<b>Topic 3</b><br>Words: êtes monsieur frangie, personnes veulent excusez, veulent excusez -moi, voir disent revenir, fiche note voir",
+        "<b>Topic 3</b><br>Words: ben hola octave, aller attends bientôt, ouais baisse baragineux, mot sais êtes, troublé euh chien",
+        "<b>Topic 3</b><br>Words: faut prêtes non, sûre oui intéressait, image positive femme, non tata sûre, intéressait montrer image",
+        "<b>Topic 3</b><br>Words: curie christian delorme, oui bien toucher, lepra sujet intéresse, doigts dois dois, populaires fsqp.free.fr écoute",
+        "<b>Topic 3</b><br>Words: alex, maxime, oh, bienvenue, salut",
+        "<b>Topic 3</b><br>Words: capable faire, non non non, yamina, répondre sentinelle, sais marches farid",
+        "<b>Topic 3</b><br>Words: vient voir secrétaire, entretien vient voir, général elysée président, président -ce avez, moreau assistait entretien",
+        "<b>Topic 3</b><br>Words: paname champions league, champions league paname, league paname champions, madame ministre, intervenants",
+        "<b>Topic 3</b><br>Words: gilbert, thierry ardisson, père castor, cabaret cabaret, bienvenue",
+        "<b>Topic 3</b><br>Words: marche mouvement historique, intéressez histoire hésitez, hashtag kiftaras nassira, réseaux hashtag kiftaras, entendu intéressez histoire",
+        "<b>Topic 3</b><br>Words: parisiens parisiennes attendez, livre beurettes bientôt, parisiennes attendez rende, lire livre beurettes, paris parisiens parisiennes",
+        "<b>Topic 3</b><br>Words: espère beaucoup plaisir, saïd bouanama inauguré, salut thibaut, infiniment saïd bouanama, émission espère beaucoup",
+        "<b>Topic 3</b><br>Words: 1 2 coin, 3 octobre 1, coin loisir ministre, loisir ministre oui, 2 3 octobre",
+        "<b>Topic 3</b><br>Words: parlez temps court, soirée, assemblée, spotify site internet, beaucoup 2 florent",
+        "<b>Topic 3</b><br>Words: madame ministre, bonjour, conférence, reportage fini aujourd'hui, reviendrez",
+        "<b>Topic 3</b><br>Words: marche monde internet, internet exprimez -vous, infos contacts page, réseaux sociaux podcastez, contacts page marche"
+      ],
+      "marker": {
+        "color": "#D55E00"
+      },
+      "name": "3_alex_maxime_bienvenue_oh",
+      "orientation": "v",
+      "visible": "legendonly",
+      "x": {
+        "dtype": "i2",
+        "bdata": "vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "ILGJzrUQ6T87x7PGikjKPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYt0VKPQU8T8AAAAAAAAUQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAfBphuacR5j8AAAAAAAAAANBRgS+ufvA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAG6RBGqQBDUAJvP2QwNsPQJqK55rVYeQ/Z0Kk9MiSCEBM6yoROhcGQD+KLTx9Zfg/07UVOGad1j/gxaAi3FLzPxzHcRzHccw/fj15ftpB+z/SK2P7Hb3yPxLaS2gvoe0/"
+      },
+      "type": "bar"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        "<b>Topic 4</b><br>Words: procès re-jugement été, sachez aujourd'hui lieu, retrouve prison sachez, injuste quelqu' sorti, été condamné -t",
+        "<b>Topic 4</b><br>Words: centre culturel gérard, culturel gérard philippe, 30 novembre exposition, 76 rue, 2 rue",
+        "<b>Topic 4</b><br>Words: rouge long métrage, compositeur algérien merzak, algérien écrit musique, présence linda souza, république présence linda",
+        "<b>Topic 4</b><br>Words: objective donne image, duvivier lechanois veulent, changent années 60, donne image cinéma, voulait relativiser apparence",
+        "<b>Topic 4</b><br>Words: oui parlé puisqu', smaïm autodidacte entreprend, smaïd cinoche grosse, chante chante gros, chante gros plan",
+        "<b>Topic 4</b><br>Words: cinéastes, indigène immigré, guerre algérie film, scénario, rapport colonial rapport",
+        "<b>Topic 4</b><br>Words: cinéma, jamel debbouze, cinématographique, faire film, documentaire",
+        "<b>Topic 4</b><br>Words: cinéma, montaterre, réalisatrice, mépris, appelé semaines disant",
+        "<b>Topic 4</b><br>Words: 000 paris question, important nabil rassemblé, essentiel bûche important, jeunesse enfance respecter, portaient discours envie",
+        "<b>Topic 4</b><br>Words: y. allez y., allez y. allez, passer rokhaya rokhaya, flyers jeune homme, idion jouandra instant",
+        "<b>Topic 4</b><br>Words: 30 ans marche, film film, soir médiathèque roubaix, 2013 30 ans, mise place",
+        "<b>Topic 4</b><br>Words: death wish, bruce willis, carrément, scénario, regardes",
+        "<b>Topic 4</b><br>Words: film français pote, thierry lhermitte coluche, imaginer breton demande, film français espèce, vidéo ouais arriver",
+        "<b>Topic 4</b><br>Words: minutes retard appeler, êtes retard arrivée, avance cool, sort complètement évidemment, donné sujet beaucoup",
+        "<b>Topic 4</b><br>Words: autour 11 décembre, 0768 6402 84, sortie film, conseille, carrément"
+      ],
+      "marker": {
+        "color": "#0072B2"
+      },
+      "name": "4_cinéma_jamel debbouze_cinématographiqu...",
+      "orientation": "v",
+      "visible": "legendonly",
+      "x": {
+        "dtype": "i2",
+        "bdata": "vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "wSCxic610D87x7PGikjqP7dt27Zt2wZAAAAAAAAAAACrqqqqqqo6QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWe5phOWeMkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0yAN0iDNCUAJvP2QwNv/P5qK55rVYQRAlR5ZEs/X9T/bvRg95Y7/P5uxamgl3xZAAAAAAAAAAABz7cBcOzDXP1ZVVVVVVeU/AAAAAAAAAADCFPmsG0zhPwAAAAAAAAAA"
+      },
+      "type": "bar"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        "<b>Topic 5</b><br>Words: sachent marchent bien, chroniqueur europe numéro, étage inférieur disons, ministre voulez bien, reportage consacré convergence",
+        "<b>Topic 5</b><br>Words: 68 jeunes descendaient, souvient mai 68, jeunes mobiliser autour, descendaient rue demander, pousse jeunes mobiliser",
+        "<b>Topic 5</b><br>Words: renouvellement pratiques sociales, ici porteuse nombre, marcheurs ici porteuse, 89 peut-être réflexion, effectivement porteuse marche",
+        "<b>Topic 5</b><br>Words: traînent ici propres, 1983 jeunes cités, positif été calcul, point positif été, cités 20 ans",
+        "<b>Topic 5</b><br>Words: heureusement féministe agnostique, penche surprenant image, surprenant image images, oublier marche 83, aujourd'hui pignon rues",
+        "<b>Topic 5</b><br>Words: minguettes oui rodeaux, rodéos minguettes oui, oui rodeaux minguettes, rodeaux minguettes acte, issue immigration seconde",
+        "<b>Topic 5</b><br>Words: rodéos minguettes rodéos, minguettes rodéos minguettes, rodéos minguettes acte, 1981 minguettes fameux, tard génération beur",
+        "<b>Topic 5</b><br>Words: monté entreprise journalistes, marcheurs initiative lancée, vote élections régionales, mars prochain test, lancée 1983 bilans",
+        "<b>Topic 5</b><br>Words: marche 1983, 2013, mémoire, mobilisations, début années 80",
+        "<b>Topic 5</b><br>Words: 83 marcheur 83, marcheur 83 marcheur, vraiment précis idée, légende urbaine oubliait, faire vivre moment",
+        "<b>Topic 5</b><br>Words: marche 1983, 1963, mémoire, etats-unis, détenus",
+        "<b>Topic 5</b><br>Words: racisme 1983 transmission, dites marche égalité, thème ambiant époque, faire respecter lancé, ambiant époque années",
+        "<b>Topic 5</b><br>Words: généalogie, années 70, mémoire marche, mal violences soudainement, revendications 83 compare",
+        "<b>Topic 5</b><br>Words: porter efforts génération, caractère éruptif expressif, passer générations été, égaux fournissent efforts, marche 83 auparavant",
+        "<b>Topic 5</b><br>Words: plaques tectoniques, marche égalité 83, politique ville, marche 1983, contribue imposer débat",
+        "<b>Topic 5</b><br>Words: télévision, 8 sujets, année 83 point, artistique smaïn humoriste, rejoindre années savoir",
+        "<b>Topic 5</b><br>Words: texte, arrive années 80, écriture, génération arrive années, années 80 génération",
+        "<b>Topic 5</b><br>Words: marche 83, bonjour, marche 1983, français arabe, dreux",
+        "<b>Topic 5</b><br>Words: rpr acquiert obtient, acquiert obtient victoire, candidat rpr acquiert, marche 1983 1985, émerge progressivement années"
+      ],
+      "marker": {
+        "color": "#CC79A7"
+      },
+      "name": "5_marche 83_marche 1983_mobilisations_20...",
+      "orientation": "v",
+      "visible": "legendonly",
+      "x": {
+        "dtype": "i2",
+        "bdata": "vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAA7x7PGikjaP7dt27Zt2/Y/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALCcd4JrG1j8AAAAAAAAAAD744IMPPghAAAAAAAAAAABWVVVVVVUFQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQQAAAAAAAAAAAAAAAAAAAAAA0SIM0SIMEQIKodGTPQPQ/DdIgDdKgAUAAAAAAAAAAAJqK55rVYQRAwvoNMNUcE0DbvRg95Y7vP68nIu0dTAJASCMbxr9EDEAWspCFLGTxPzmO4ziO4/g/JYTTcRGICECak0BcqDn5PxLaS2gvof0/"
+      },
+      "type": "bar"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        "<b>Topic 6</b><br>Words: fraternité, voir capables ensemble, faire voir capables, peuple français, capables ensemble aimer",
+        "<b>Topic 6</b><br>Words: croyait, ouvrir, yeah positive iron, français désirer justice, vibration yeah positive",
+        "<b>Topic 6</b><br>Words: hollandaise venue signifier, 30 répressions subies, remarqué présence délégation, signifier solidarité immigrés, puisqu' tenu coup",
+        "<b>Topic 6</b><br>Words: valeurs mortes chose, marre marre motivés, chose sympathique moments, égalité fraternité époque, suppose moments baisse",
+        "<b>Topic 6</b><br>Words: bosser bosser bosser, dialogue intéressant discours, recherchons dialogue intéressant, grandes valeurs république, réclame grandes valeurs",
+        "<b>Topic 6</b><br>Words: vivre fraternité affiche, rêve éveillé cru, éveillé cru société, française vivre fraternité, cru société française",
+        "<b>Topic 6</b><br>Words: liberté égalité fraternité, hitler liberté égalité, blanc beur france, engagé écouté général, droits frères armes",
+        "<b>Topic 6</b><br>Words: française prenne sportifs, vit monde bien, plurielle fois vit, couleurs partout bien, identifier fierté pays",
+        "<b>Topic 6</b><br>Words: généraliser bien écoutez, peut-être nés bien, bon pari ressent, droit généraliser bien, pari ressent truc",
+        "<b>Topic 6</b><br>Words: égalité égalité égalité, fraternité, main tendue, point levé, -ce bon choix",
+        "<b>Topic 6</b><br>Words: champ collectif humains, pouvoir travailler originaires, ben yamina ans, pouvoir enrichir commerce, disait pouvoir travailler",
+        "<b>Topic 6</b><br>Words: évidemment droit vote, question égalité droit, droit ensemble points, bien évidemment droit, morale vraiment question",
+        "<b>Topic 6</b><br>Words: poursuivre souhaitent racisme, françaises poursuivre souhaitent, waouh bien situant, souhaitent racisme coup, bien situant cœur",
+        "<b>Topic 6</b><br>Words: désordre, justice sociale, élan, amour, envie continuer combat",
+        "<b>Topic 6</b><br>Words: gagné, motif espoir, ensemble français, venons ici, foutu",
+        "<b>Topic 6</b><br>Words: eau peut-être beaucoup, aimer différence chair, chair eau peut-être, différence chair eau, solidarité sert solidarité",
+        "<b>Topic 6</b><br>Words: jamais guide moments, -là chemin jonché, itinéraires obstacles soient, exemple grande marche, -t -il réaction",
+        "<b>Topic 6</b><br>Words: français délivrés injustices, injustices français délivrés, délivrés injustices français, faire voir capables, voir capables ensemble",
+        "<b>Topic 6</b><br>Words: voulu montrer patte, beaucoup contenu anonnent, blanche crois moment, bon tenter déplacer, égalité marche arrière",
+        "<b>Topic 6</b><br>Words: fraternité, voudrait atteindre, rêve, sert, croyez",
+        "<b>Topic 6</b><br>Words: cas région france, crois cas région, oui suivi suivi, régions crois cas, région france presque"
+      ],
+      "marker": {
+        "color": "#E69F00"
+      },
+      "name": "6_égalité égalité égalité_idéal_formidab...",
+      "orientation": "v",
+      "visible": "legendonly",
+      "x": {
+        "dtype": "i2",
+        "bdata": "vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "Ufn1cCk+HUCEXDC8Vm0AQLdt27Zt2/Y/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALCcd4JrG5j8AAAAAAAAAAC+66KKLLhJAAAAAAAAAAACrqqqqqqoaQAAAAAAAAAAAfBphuacR9j8AAAAAAAAAAAAAAAAAAAAA2BxItMLm8D8AAAAAAAAAAMP8rhY3Yf4/vuVbvuVb+D+x0lMLKz3lP5qK55rVYfQ/lR5ZEs/X1T/bvRg95Y7/P9UGydKoQwBA07UVOGad1j9z7cBcOzDXPxzHcRzHcQxAGFjiS7Za4D/CFPmsG0zxPxLaS2gvof0/"
+      },
+      "type": "bar"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        "<b>Topic 7</b><br>Words: professionnels, outrancière donne image, interviewer tema fatima, intérêt lutte représente, personnes origines mrap",
+        "<b>Topic 7</b><br>Words: racisme volonté vouloir, sos racisme volonté, radical exprime sujet, retrouvent aujourd'hui entourage, exprime sujet militants",
+        "<b>Topic 7</b><br>Words: parti socialiste, convergence 84, militants socialistes, contrôler, associatif",
+        "<b>Topic 7</b><br>Words: animateurs mouvements associatifs, sentiment dépossédés animateurs, pouvoir socialos elysée, dépossédés animateurs mouvements, mouvements associatifs etc.",
+        "<b>Topic 7</b><br>Words: idée mouvement sos, brassant idée mouvement, mouvement sos racisme, parti socialiste, antiracisme",
+        "<b>Topic 7</b><br>Words: tard toumidjadja devenu, années tard toumidjadja, exprime sujet militants, retrouvent aujourd'hui entourage, toumidjadja devenu imam",
+        "<b>Topic 7</b><br>Words: parti socialiste, récupération, sos racisme été, antiraciste, union étudiants juifs",
+        "<b>Topic 7</b><br>Words: numéro petit truc, pensait allait devenir, an tard organisation, passé côté état, bouddha récupéré lamentable",
+        "<b>Topic 7</b><br>Words: touche pote, sos marche égalité, création sos racisme, infantiliser, vidé",
+        "<b>Topic 7</b><br>Words: parti socialiste, touche pote, sos racisme été, sos racisme créé, badge",
+        "<b>Topic 7</b><br>Words: parti socialiste, antiracisme, touche pote, mitterrand, sos racisme créé",
+        "<b>Topic 7</b><br>Words: serge malik, julien drey, officines, sérieuses laissées mains, direction assaut",
+        "<b>Topic 7</b><br>Words: récupération parti socialiste, parole parole bottom, up sortait vraiment, époque sos racisme, situation français clamé",
+        "<b>Topic 7</b><br>Words: sos racisme été, racisme été créé, adhéré sos racisme, projet politique, réélection françois mitterrand",
+        "<b>Topic 7</b><br>Words: capital politique marche, bien entendu beaucoup, allais posture nationale, entendu beaucoup complexe, racisme tenter accaparer"
+      ],
+      "marker": {
+        "color": "#56B4E9"
+      },
+      "name": "7_parti socialiste_antiracisme_sos racis...",
+      "orientation": "v",
+      "visible": "legendonly",
+      "x": {
+        "dtype": "i2",
+        "bdata": "vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAALdt27Zt2xZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQQAt8cfWDjhJAIdEKmwOJ5j80SIM0SIMEQIKodGTPQOQ/DdIgDdIg/j+TLxs0+bLxPwAAAAAAAAAA79bCTdthAEB8MXrKHT/5P9UGydKoQwBAAAAAAAAAAAAyqAi31GwAQAAAAAAAAAAAchGIWH8U8z9qTgJxoeb0PxLaS2gvoe0/"
+      },
+      "type": "bar"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        "<b>Topic 8</b><br>Words: important vie sociale, accessible sommes issus, décidés rester marge, court algérie exemple, sociale française peut-être",
+        "<b>Topic 8</b><br>Words: pays origine, attitude égard, georges morin, mesure valeurs, immigration travail",
+        "<b>Topic 8</b><br>Words: solo musique musique, politique émission favoriser, couper pays prévalait, traduit lutte ailleurs, travailles solo musique",
+        "<b>Topic 8</b><br>Words: occasion code nationalité, tâche confiée désavoue, chirac réforme code, confiée désavoue projet, dénonce atteinte libertés",
+        "<b>Topic 8</b><br>Words: faut -il agir, sommes français monde, -vous jeune né, article 23 reconnaissait, démarche égard société",
+        "<b>Topic 8</b><br>Words: main œuvre, flux migratoires, travailleurs étrangers, contrat, entrent",
+        "<b>Topic 8</b><br>Words: issus immigration disaient, mode vie culture, proches mode vie, disaient proches mode, culture française aujourd'hui",
+        "<b>Topic 8</b><br>Words: immigration mal, ouverture, portugais, contexte 30, sauvette",
+        "<b>Topic 8</b><br>Words: société française lorsqu', jolis lorsqu' jeu, boissig avis marqué, idée voudrait faire, gênent stéréotypes société",
+        "<b>Topic 8</b><br>Words: parents prêts repartir, été proposé 10, mecs trimé 30, proposé 10 000, 000 balles rentre",
+        "<b>Topic 8</b><br>Words: immigration familiale france, compte immigration devenue, compte auparavant rendu, surprenant rendu compte, rendu compte immigration",
+        "<b>Topic 8</b><br>Words: société française lorsqu', plupart cité minguettes, quelques-uns plupart chose, presque essentiel marcheurs, chose parlait beaucoup",
+        "<b>Topic 8</b><br>Words: nés, grandi, nées france, déclarent, immigration postcoloniale",
+        "<b>Topic 8</b><br>Words: mythe, grandissaient, perte, colonies, femmes enfants regroupement",
+        "<b>Topic 8</b><br>Words: appeler 100 française, renvoie enfants différences, génération devrait appeler, guerre mondiale rejoindre, malle main œuvre",
+        "<b>Topic 8</b><br>Words: rapport bilans durs, factuellement français matin, peut-être français conservé, réponses rapport bilans, mets important bien",
+        "<b>Topic 8</b><br>Words: dissimuler temps marche, mythe petit pourri, valises image forte, rester définitivement ici, étions français force",
+        "<b>Topic 8</b><br>Words: venus parents, main œuvre, complètement esprit public, france beaucoup venus, jeune génération née",
+        "<b>Topic 8</b><br>Words: libye, problématique jeune issu, cherchent éuphémiser court-circuiter, chercher maliens sénégalais, génération beaucoup français",
+        "<b>Topic 8</b><br>Words: jeunes immigrés rappelle, structures variées parlaient, jeunes parents acceptés, parents acceptés admis, acceptés admis pensés",
+        "<b>Topic 8</b><br>Words: œuvre étrangère rien, ferme pleine expansion, télévision vraiment travailleur, anciennes colonies afrique, france turbiner usines",
+        "<b>Topic 8</b><br>Words: été élevés mythe, exil, travailler faire grandir, enseignante enseignante famille, mythes français ailleurs",
+        "<b>Topic 8</b><br>Words: reparte reparte, allé chercher, français papier, héritiers, nés france"
+      ],
+      "marker": {
+        "color": "#009E73"
+      },
+      "name": "8_pays origine_retourner_immigrée_grandi",
+      "orientation": "v",
+      "visible": "legendonly",
+      "x": {
+        "dtype": "i2",
+        "bdata": "vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "wSCxic614D87x7PGikgKQAAAAAAAAAAAAAAAAAAAAACrqqqqqqoqQAAAAAAAACRAYt0VKPQU8T8AAAAAAAAAAD744IMPPihAAAAAAAAAAABWVVVVVVX1PwAAAAAAAAAAyz2NsNzTKEAAAAAAAAAQQNBRgS+ufuA/IdEKmwOJ5j80SIM0SIMUQAAAAAAAAAAAqqqqqqqq8D/OdYziXMf4P5qK55rVYfQ/Ombv1sJN6z8dpdtXVu/yPz+KLTx9Zfg/SCMbxr9EDECZPAHR+eq+P1ZVVVVVVeU/eKeA6ywrB0BqTgJxoeb0PwAAAAAAAAAA"
+      },
+      "type": "bar"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        "<b>Topic 9</b><br>Words: jours bons beurs, beurs nom donnés, français beurs nom, bons beurs verlan, beurs verlan français",
+        "<b>Topic 9</b><br>Words: rebeu verlan beur, rebeu mettez rebeu, rebeu racontissez rebeu, verlan beur avez, mot beurs normalement",
+        "<b>Topic 9</b><br>Words: roroto veut auto-dérision, mot beur, beurette, lang verlan parlait, glisser petit mot",
+        "<b>Topic 9</b><br>Words: donnée sémantique importance, pain bon bout, racisme aujourd'hui médias, racisme marche maghrébins, importance puisqu' détermine",
+        "<b>Topic 9</b><br>Words: côté apprendre montrer, domination financière fantasme, côté jeune fille, fille innocente côté, fantasme lolita côté",
+        "<b>Topic 9</b><br>Words: mode beur, terme beur, beur existe, parachita, aujourd'hui mot",
+        "<b>Topic 9</b><br>Words: matière grasse beur, espoir miroir apporté, beur matière grasse, beur arabe verlan, faire tartiner marche",
+        "<b>Topic 9</b><br>Words: magie, mot beur, beurette, mot arabe, beur verlan contre",
+        "<b>Topic 9</b><br>Words: été marginalisation épisode, ancien leader marche, jamel attala ancien, beurs paris beur, arabe machin bon",
+        "<b>Topic 9</b><br>Words: mot rebeu, correspond, mot arabe, suffixe, mot beur",
+        "<b>Topic 9</b><br>Words: imaginaire, mot beurette, femme maghrébine, décide appeler, inventé enfants ici",
+        "<b>Topic 9</b><br>Words: mot beur, connotation, filles, françaises origine maghrébine, burette",
+        "<b>Topic 9</b><br>Words: féminin beur, jugées, bouche, filles, expression",
+        "<b>Topic 9</b><br>Words: beurette, stigmate, beur mot beur, second degré, mot beur mot",
+        "<b>Topic 9</b><br>Words: apporté avez transmis, verlan marseillais insulte, époque aujourd'hui serge, nom véritable marche, noble mot apparente"
+      ],
+      "marker": {
+        "color": "#F0E442"
+      },
+      "name": "9_mot rebeu_mot arabe_correspond_langue",
+      "orientation": "v",
+      "visible": "legendonly",
+      "x": {
+        "dtype": "i2",
+        "bdata": "vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "wSCxic610D87x7PGikjKPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYt0VKPQUAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANBRgS+ufvA/AAAAAAAAAAAAAAAAAAAAAIKodGTPQOQ/O7ETO7ET1z/sGMW5jlHMPwAAAAAAAAAAlR5ZEs/X9T8AAAAAAAAAANUGydKoQ8A/gWPWaVFSN0AGFeGWmg37P6uqqqqqqhpAchGIWH8UA0BU5LNuMEXuPxLaS2gvof0/"
+      },
+      "type": "bar"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        "<b>Topic 10</b><br>Words: pensais société société, crié toits pensais, mois crié toits, toits pensais société, hurlé mois crié",
+        "<b>Topic 10</b><br>Words: rêve avenir, jour aube jour, travaille usine, faire famille, problème travail",
+        "<b>Topic 10</b><br>Words: lyon journée nationale, siège école nationale, nadia fonctionniste électoral, paris siège école, m. pierre truche",
+        "<b>Topic 10</b><br>Words: sonnette code extérieur, sonné porte non, prête admettons faire, dieu existe mohamed, prêt porter vie",
+        "<b>Topic 10</b><br>Words: attendre entrepris faut, vrai chance rien, entrepris faut faire, faut entreprendre action, rien faut entreprendre",
+        "<b>Topic 10</b><br>Words: rejoindre marche beurs, clermont ferrand époque, chose france participé, bien nouvelle naissance, beurs démarche apporté",
+        "<b>Topic 10</b><br>Words: montre monde vient, domaine homme métro, paris fier montre, trophée vrai guerrier, rentrer terrain métro",
+        "<b>Topic 10</b><br>Words: ramadan voulait faire, senti obligé faire, senti dépossédé honte, né 70 mis, 70 mis faire",
+        "<b>Topic 10</b><br>Words: éducatrice, arrivée paris, angers, université, entendu cœur pris",
+        "<b>Topic 10</b><br>Words: lâché, peut-être beaucoup imperméable, peut-être avancé attends, haine univers dernier, jamais bon parti",
+        "<b>Topic 10</b><br>Words: enfants emmené gare, prends distribution repas, actions -ce aurais, repas jouais enfants, forcément chose voir",
+        "<b>Topic 10</b><br>Words: enfant 9 ans, mante-la-jolie, résonné, justement tradition non-violente, alsaciens bizarres fallait",
+        "<b>Topic 10</b><br>Words: histoire géographie, capacités non petit, impression conseille monde, aveugle naissance vois, aveugle véritablement malade",
+        "<b>Topic 10</b><br>Words: études, petite ville, venait, euh, cœur pris décision",
+        "<b>Topic 10</b><br>Words: nuit, rock' roll, écris, londres, littéraire",
+        "<b>Topic 10</b><br>Words: sœur sœur sœur, promis sœur sœur, heure payer détails, trompée cœur trahie, détails promis sœur",
+        "<b>Topic 10</b><br>Words: mal rester place, rester place marche, phrase, écrit, réfléchir écriture écris",
+        "<b>Topic 10</b><br>Words: entendu cœur pris, cœur pris décision, pris décision entendu, décision entendu cœur, pleurais pleurais pleurais",
+        "<b>Topic 10</b><br>Words: départ estomarche marseille, estomarche marseille courant, soutenir départ estomarche, allé prendre photos, allé photographe temps"
+      ],
+      "marker": {
+        "color": "#D55E00"
+      },
+      "name": "10_entendu cœur pris_cœur pris décision_...",
+      "orientation": "v",
+      "visible": "legendonly",
+      "x": {
+        "dtype": "i2",
+        "bdata": "vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "8GgdLELj9D/fEXLB8FoFQLdt27Zt2/Y/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAR4IZhMftA0AAAAAAAADwPwAAAAAAAAAAAAAAAAAAAABWVVVVVVX1PwAAAAAAAAAAfBphuacR5j8AAAAAAAAAAAAAAAAAAAAAaYXNgUQr/D8AAAAAAAAAAAAAAAAAAAAAaZAGaZAG8D/OdYziXMf4P5qK55rVYeQ/wvoNMNUc8z/bvRg95Y7vP/TL33BndgxAAAAAAAAAAADgxaAi3FLzPxzHcRzHcfw/2PYei6P7/T9j+x29MrbvPxLaS2gvoe0/"
+      },
+      "type": "bar"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        "<b>Topic 11</b><br>Words: français problème -ce, économiques immigrés bien, pris conscience côté, côté essaye sensibiliser, savoir problèmes économiques",
+        "<b>Topic 11</b><br>Words: main œuvre nationale, cantonné espace, main œuvre bon, œuvre bon marché, affecté",
+        "<b>Topic 11</b><br>Words: désintégration politique exclu, abandon nombre quartiers, abandon nombre populations, 10 ans désintégration, populations crois ment",
+        "<b>Topic 11</b><br>Words: vallée thierry meunier, représentés habitants dirais, françoise vallée thierry, chance inespérée venez, habitants dirais chance",
+        "<b>Topic 11</b><br>Words: concurrence vive marché, etc. trop oublié, 2 millions 3, question sociale lorsqu', nationaux travailleurs étrangers",
+        "<b>Topic 11</b><br>Words: petits-enfants immigration retrouvent, immigration retrouvent place, place sociale inférieure, immigration petits-enfants immigration, sociale inférieure immigrés",
+        "<b>Topic 11</b><br>Words: veux réglé parqués, compte résultent fil, rubrique faits illustre, illustre délinquance règlements, court arguments polygamie",
+        "<b>Topic 11</b><br>Words: acheter prend temps, personnel départ héritage, revenus élevés prix, immédiatement jean-louis borloo, montreux seine-et-marne reprise",
+        "<b>Topic 11</b><br>Words: années 70, violence violence violence, bidonvilles, chômeurs, emploi",
+        "<b>Topic 11</b><br>Words: travailleurs immigrés pair, positif égard enfants, immigrés pair habilitation, habilitation discours positif, discours positif égard",
+        "<b>Topic 11</b><br>Words: comprimés appartements 20, vie mènent appartements, fausse démontrer simplement, ans propriétaire voit, mènent appartements mettent",
+        "<b>Topic 11</b><br>Words: reprendre, logement social, solution voter organiser, arbi extérieur image, porte réalité quartiers",
+        "<b>Topic 11</b><br>Words: écrasé, chômage, individus, logement, partir 1990 vraiment",
+        "<b>Topic 11</b><br>Words: patrimoine question travailleurs, patrimoines entretenus problèmes, familles mixtes choses, familles familles mixtes, existant quartiers bailleurs",
+        "<b>Topic 11</b><br>Words: puissance chômage masse, chômage masse quartiers, masse quartiers -là, -là familles -là, contexte train rentrer",
+        "<b>Topic 11</b><br>Words: logement social, peur travail, emploi, politique ville, trouvent",
+        "<b>Topic 11</b><br>Words: reléguée périphérie loin, cité dortoir pourtant, préfet exaucé harlem, plein files attente, oui compte aujourd'hui",
+        "<b>Topic 11</b><br>Words: quartiers populaires mourront, ans vit parents, aller vite histoire, loyer populations instrument, beaucoup mixité aujourd'hui",
+        "<b>Topic 11</b><br>Words: logement faut reconnu, reconnu droit convenablement, droit convenablement logé, point logement faut, faut reconnu droit"
+      ],
+      "marker": {
+        "color": "#0072B2"
+      },
+      "name": "11_emploi_années 70_logement social_gran...",
+      "orientation": "v",
+      "visible": "legendonly",
+      "x": {
+        "dtype": "i2",
+        "bdata": "vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "wSCxic614D9s1QYVaLYDQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALCcd4JrGBkAAAAAAAADwPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAfBphuacR5j8AAAAAAAAAANBRgS+ufgBAIdEKmwOJ9j8AAAAAAAAAAIKodGTPQOQ/cPmWb/mW8j/sGMW5jlHMP+ZPW2jAkv4/wvoNMNUc8z98MXrKHT/5P9UGydKoQ+A/XkgQqgz28D9z7cBcOzD3P1ZVVVVVVeU/y8otZUjO5T9KIC7UnATyPwAAAAAAAAAA"
+      },
+      "type": "bar"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        "<b>Topic 12</b><br>Words: avis faut devienne, faut devienne ordinaire, faut devienne manécourant, faut législateur intervienne, tard peut-être trop",
+        "<b>Topic 12</b><br>Words: fois besoins degré, jeunes savoir facile, besoins nouveaux faut, besoins partager prendre, maire mantes-la-jolie difficultés",
+        "<b>Topic 12</b><br>Words: justice vraiment prenne, jeunes organisent délinquance, temps bien jeunes, compte aspirations plupart, entière temps temps",
+        "<b>Topic 12</b><br>Words: calmer non faut, aller certainement discuter, fond problème travers, fois essayer comprendre, terrain lieu faire",
+        "<b>Topic 12</b><br>Words: communication termes mobilisation, terme partir moment, habitants acceptent met, habitants quartiers suivi, termes communication termes",
+        "<b>Topic 12</b><br>Words: choses veut égal, -nous choses veut, part responsabilité accepte, pouvez aider régler, aider résoudre problèmes",
+        "<b>Topic 12</b><br>Words: agents etat engage, école grève fonctionnaires, agit simple système, agents municipaux occuper, éducation communes appelées",
+        "<b>Topic 12</b><br>Words: bâtiment, 4 millions, président université, ufr, financières",
+        "<b>Topic 12</b><br>Words: défiance vis-à-vis élites, décisions fallait écoutez, regardez écoutez république, droite pouvoir pris, donner leçons sûr",
+        "<b>Topic 12</b><br>Words: prenantes acteurs auteurs, sociale habitants parties, ville collectif 2005, politique ville collectif, humain désolé faut",
+        "<b>Topic 12</b><br>Words: racisme représentation politique, invite intérieur métier, interpeller fois politiques, vivante capable mettre, intérieur maison pollenne",
+        "<b>Topic 12</b><br>Words: faut aider, bons, détrouver choses remplacent, petit alléger portent, bureaux études maîtresses",
+        "<b>Topic 12</b><br>Words: appel dernièrement personnalités, réalité niveau politique, plan gouvernement plan, bien chape plomb, société française capital",
+        "<b>Topic 12</b><br>Words: quartiers populaires quantité, voyaient petit loin, appelle apports électoraux, loin disant bon, suite quartiers populaires",
+        "<b>Topic 12</b><br>Words: université, transition écologique, politique ville, budget, écologie",
+        "<b>Topic 12</b><br>Words: sortent cité chose, cité chose êtes, chose êtes bien, redevient central remettre, social redevient central"
+      ],
+      "marker": {
+        "color": "#CC79A7"
+      },
+      "name": "12_bâtiment_uvsq_politique ville_plan",
+      "orientation": "v",
+      "visible": "legendonly",
+      "x": {
+        "dtype": "i2",
+        "bdata": "vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAA7x7PGikjKP7dt27Zt2/Y/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALCcd4JrG5j8AAAAAAADwPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANBRgS+ufuA/AAAAAAAAAAA0SIM0SIMEQMP8rhY3Yf4/qqqqqqqq8D+x0lMLKz3lPwAAAAAAAAAA79bCTdth4D8dpdtXVu/iP4pIeweTVOQ/AAAAAAAAAABz7cBcOzDXPwAAAAAAAAAAy8otZUjOxT9qTgJxoeYEQBLaS2gvoe0/"
+      },
+      "type": "bar"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        "<b>Topic 13</b><br>Words: magistrats, policiers, délinquance, français partage opinion, gouvernement contrôle parquets",
+        "<b>Topic 13</b><br>Words: simplement policier fasse, travail normal faut, monde évidence problème, fois manière provocation, fasse travail normal",
+        "<b>Topic 13</b><br>Words: reconnaissance violences policières, affaires, police rapport, brutalité policier, commissariat vinicieux",
+        "<b>Topic 13</b><br>Words: disant verrai ministre, république commence discuter, verrai ministre justice, répondu disant verrai, justice répondu disant",
+        "<b>Topic 13</b><br>Words: voulait occasion valoriser, etat abîme parcours, valoriser porter sujet, interventions policières violences, racisme etat abîme",
+        "<b>Topic 13</b><br>Words: question survie contrôle, connaissent adresse etc., grandir connaissent adresse, allée voient grandir, voient grandir connaissent",
+        "<b>Topic 13</b><br>Words: harcèlement part police, subissent harcèlement part, socialement économiquement poursuivie, économiquement poursuivie policiers, population particulière discriminée",
+        "<b>Topic 13</b><br>Words: choses multiplication actes, adonner genre choses, jouait travers quartier, public jouait travers, agissent ordre cas",
+        "<b>Topic 13</b><br>Words: application, filmer policiers, brisée, bavures, impunité",
+        "<b>Topic 13</b><br>Words: ici exemples plaintes, témoignages racontent chose, standardisée officielle numéro, répondu consignes fédération, racontent chose bidonville",
+        "<b>Topic 13</b><br>Words: avocats militants hommage, mal frappe coups, avocats avocats militants, français appelle opinion, antoine perrault enquêté",
+        "<b>Topic 13</b><br>Words: doctrine, rassurés, ministre intérieur, bleu, baffes partaient facilement",
+        "<b>Topic 13</b><br>Words: baffes partaient facilement, bruts bruts contrôles, policiers bruts bruts, bruts contrôles musclé, bien état esprit"
+      ],
+      "marker": {
+        "color": "#E69F00"
+      },
+      "name": "13_application_pratiques_opinion_filmer ...",
+      "orientation": "v",
+      "visible": "legendonly",
+      "x": {
+        "dtype": "i2",
+        "bdata": "vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAiQIofnJH9PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIKodGTPQOQ/cPmWb/mW4j/sGMW5jlHMP5qK55rVYeQ/lR5ZEs/XxT98MXrKHT/ZP9UGydKoQ+A/AAAAAAAAAADsHmll8gQcQBzHcRzHccw/GFjiS7Za4D9DzUkgLtTsPxLaS2gvof0/"
+      },
+      "type": "bar"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        "<b>Topic 14</b><br>Words: partis politiques syndicats, monsieur monsieur, idées front antiraciste, antiraciste voulez monter, faire coordination nationale",
+        "<b>Topic 14</b><br>Words: aucun camps retrouve, aujourd'hui choisissez camp, droite retrouve vraiment, socialiste etc. gouvernement, important aujourd'hui choisissez",
+        "<b>Topic 14</b><br>Words: temps années rassembler, niveau -là choses, ensemble mal temps, ensemble années sûr, habitude vivre ensemble",
+        "<b>Topic 14</b><br>Words: chose voudrais demander, tse tung disait, poisson eau rentre, demander youssef ben, faire choses êtes",
+        "<b>Topic 14</b><br>Words: forum social quartiers, social quartiers populaires, réseau national quartiers, vaud-en-velin moment assises, civile française savons",
+        "<b>Topic 14</b><br>Words: monter isabelle voudrais, voulez monter isabelle, isabelle voudrais quitter, thème commandant cousteau, voudrais quitter poser",
+        "<b>Topic 14</b><br>Words: récupération, csl, partis politiques syndicats, remarque, monsieur monsieur",
+        "<b>Topic 14</b><br>Words: régler affaire banderoles, europe formaient appellerais, renouveler histoires avions, voir renouveler histoires, politiques discussion décida",
+        "<b>Topic 14</b><br>Words: su prendre dis, sévère jugement impression, peut-être su prendre, mouvement récupérer structurer, casser mouvement récupérer",
+        "<b>Topic 14</b><br>Words: faire hors-piste gauche, peut-être faire hors-piste, socialiste point préciser, aujourd'hui 2017 -ce, finalement aujourd'hui 2017",
+        "<b>Topic 14</b><br>Words: partis politiques syndicats, monsieur monsieur, mettre place question, place question pose, garderait collectif aller",
+        "<b>Topic 14</b><br>Words: collectif faut créer, parti communiste français, voix faut rassembler, acte acte 3, actions suite non",
+        "<b>Topic 14</b><br>Words: partis politiques syndicats, monsieur monsieur avez, avez heure monsieur, monsieur avez heure, monter oui bravo",
+        "<b>Topic 14</b><br>Words: organisations politiques, amis poutine, fonction vote fonction, vote fonction vote, npa",
+        "<b>Topic 14</b><br>Words: parti socialiste parti, gauche déclarer travail, nécessaire marche nombre, dériver raté rendez-vous, déclarer travail quotidien",
+        "<b>Topic 14</b><br>Words: organismes jeunes 20, fonctionnent disait militants, associations fragiles récentes, -il moment marcheurs, militants organismes jeunes"
+      ],
+      "marker": {
+        "color": "#56B4E9"
+      },
+      "name": "14_partis politiques syndicats_récupérat...",
+      "orientation": "v",
+      "visible": "legendonly",
+      "x": {
+        "dtype": "i2",
+        "bdata": "vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "ILGJzrUQ+T87x7PGikjaP7dt27Zt2/Y/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALCcd4JrG9j8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANBRgS+ufvA/AAAAAAAAAAAAAAAAAAAAAIKodGTPQOQ/hDRIgzRI6j/sGMW5jlHMPwAAAAAAAAAAlR5ZEs/XxT98MXrKHT/JP9UGydKoQ+A/AAAAAAAAAACZPAHR+ereP1ZVVVVVVeU/Hu7a3mNxBEACcaHmJBDHPxLaS2gvoe0/"
+      },
+      "type": "bar"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        "<b>Topic 15</b><br>Words: carte 10 ans, demandent droit vote, accueillir aimerait bien, bien part dise, souhaitent rencontrer président",
+        "<b>Topic 15</b><br>Words: séjour 10 ans, instauration titre unique, titre unique séjour, conseil national populations, national populations immigrées",
+        "<b>Topic 15</b><br>Words: obtenir nationalité faut, dis apparemment parents, mois prison important, prison important pascua, puissent bénéficier titre",
+        "<b>Topic 15</b><br>Words: carte 10 ans, questions posons soir, époque considère fonde, séjour travail résident, droit expression association",
+        "<b>Topic 15</b><br>Words: ans étrangers divine, encadré marche 16, cas satisfait jeune, ans tard surnommait, contre-temps jeune génération",
+        "<b>Topic 15</b><br>Words: droit vote, vote étrangers, travers parents légitimité, attentisme chose concrète, saïd bouamama droit",
+        "<b>Topic 15</b><br>Words: séjour 10 ans, carte séjour 10, carte 10 ans, droit vote étrangers, étrangers non communautaires",
+        "<b>Topic 15</b><br>Words: savez nation droits, évident savez nation, justice évident savez, permis société française, presque vitrine exporter",
+        "<b>Topic 15</b><br>Words: carte 10 ans, application attend textes, mise application attend, ambiguë route carte, pouvoir prononcer succès",
+        "<b>Topic 15</b><br>Words: droit vote étrangers, honorée ordre jour, 2012 honorée ordre, ordre jour donner, jour donner parole",
+        "<b>Topic 15</b><br>Words: étrangers élections locales, vote étrangers élections, droit vote étrangers, venait crimes racistes, 83 30 ans",
+        "<b>Topic 15</b><br>Words: tangible plupart marcheurs, immigrés permettre carte, fois malentendu bénéficier, bénéficier coup fils, vraiment tangible plupart",
+        "<b>Topic 15</b><br>Words: carte 10 ans, séjour 10 ans, carte séjour 10, droit vote étrangers, duré mise droit",
+        "<b>Topic 15</b><br>Words: droit vote étrangers, vote étrangers actualité, renouvelable droit vote, créera carte séjour, mitterrand demande créera",
+        "<b>Topic 15</b><br>Words: séjour 10 ans, carte séjour 10, françois mitterrand, droit vote étrangers, promesse",
+        "<b>Topic 15</b><br>Words: devenant unique disons, disons renouvelable gouvernement, unique disons renouvelable, police droit logement, logement travail éducation"
+      ],
+      "marker": {
+        "color": "#009E73"
+      },
+      "name": "15_séjour 10 ans_carte 10 ans_carte séjo...",
+      "orientation": "v",
+      "visible": "legendonly",
+      "x": {
+        "dtype": "i2",
+        "bdata": "vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "ILGJzrUQ6T+EXDC8Vm3wPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALCcd4JrG5j8AAAAAAAAAAD744IMPPghAAAAAAAAAGUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANBRgS+ufvA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAfMu3fMu35z/sGMW5jlHMP+ZPW2jAkv4/79bCTdth4D8dpdtXVu/iP4pIeweTVOQ/AAAAAAAAAAAAAAAAAAAAABzHcRzHcew/GFjiS7Za8D/CFPmsG0zhPxLaS2gvoe0/"
+      },
+      "type": "bar"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        "<b>Topic 16</b><br>Words: vient recoller fragments, valeur devenir lieu, raconté immigration tué, aujourd'hui concentrés mission, universitaires continué travailler",
+        "<b>Topic 16</b><br>Words: transmission, programmes, héritage, transmettre, commémoration",
+        "<b>Topic 16</b><br>Words: revendication mémoire partie, mémoire partie intégrante, égalité inscrit politique, affiche marche égalité, liées manière générale",
+        "<b>Topic 16</b><br>Words: mémorielle, faut penser, perçu, transmission, histoire éducation nationale",
+        "<b>Topic 16</b><br>Words: collectivement essaie moyens, éducation nationale sais, responsabilité individuelle collective, transmission voie orale, responsabilité part responsabilité",
+        "<b>Topic 16</b><br>Words: déterrée passe démonstration, dimensions structurelles mise, structurelles mise évidence, passe oui parles, évidemment passe oui",
+        "<b>Topic 16</b><br>Words: mémoire, faire contextes, volonté transmettre chose, permanent république finalement, heureuse vois relève",
+        "<b>Topic 16</b><br>Words: demande comptes trahi, continuent trahir aujourd'hui, époque chose adn, fondamental titre individuel, époque continuent trahir",
+        "<b>Topic 16</b><br>Words: manuels scolaires, récit collectif récit, récit histoire complet, chose extrêmement important, chose lancer appel"
+      ],
+      "marker": {
+        "color": "#F0E442"
+      },
+      "name": "16_transmission_programmes_transmettre_r...",
+      "orientation": "v",
+      "visible": "legendonly",
+      "x": {
+        "dtype": "i2",
+        "bdata": "vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAfBphuacRBkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQRqkQRqk6T/sGMW5jlHcPwAAAAAAAAAA79bCTdth8D98MXrKHT/ZP9UGydKoQ8A/AAAAAAAAAAAAAAAAAAAAAHIcx3Ecx/E/GFjiS7Za8D/iQs1JIC7kPwAAAAAAAAAA"
+      },
+      "type": "bar"
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        "<b>Topic 17</b><br>Words: blessé coup couteau, policier été légèrement, moment essayaient mettre, commissariat police jeunes, police garée sous-sol",
+        "<b>Topic 17</b><br>Words: été mis sellette, secteur zub minguettes, prise compte situations, république changement gouvernement, changement gouvernement france",
+        "<b>Topic 17</b><br>Words: événements durs affrontement, 82 83 mois, durs affrontement forces, forces ordre jeunes, ordre jeunes partie",
+        "<b>Topic 17</b><br>Words: demeurent tours vident, 000 habitants équipements, muré parallèlement vénissieux, équipements collectifs promis, profite envoyer banlieue",
+        "<b>Topic 17</b><br>Words: minuit jeunes courent, essuyé tirs fusils, habitants réveillés détonations, ministre intérieur appliquer, estime utile tensions",
+        "<b>Topic 17</b><br>Words: 1981 début fameux, tour cité voitures, jeunes tour cité, explosion lieu 10, découvre coup malaise",
+        "<b>Topic 17</b><br>Words: police minguet dégénère, descente police minguet, minguet dégénère affrontement, incapable assurer sécurité, jeunes banlieues policiers",
+        "<b>Topic 17</b><br>Words: alliomarie souhaite remobiliser, groupes intervention régionaux, gir gir groupes, manifestation précédé incendie, gir groupes intervention",
+        "<b>Topic 17</b><br>Words: incidents, forces ordre, jeunes minguettes, 21 mars, brûler",
+        "<b>Topic 17</b><br>Words: ensuite été vraiment, révoltes étendues villes, jour nuit voitures, clichy-sous-bois jour nuit, descendu rue jeune",
+        "<b>Topic 17</b><br>Words: affrontement police 28, 28 21 mars, police 28 21, mars 1963 minguet, 1963 minguet gros",
+        "<b>Topic 17</b><br>Words: poubelles voitures tension, voitures tension souffrance, accumulée frustration problème, anarchie ans minguettes, minguettes vaud-en-velin ville",
+        "<b>Topic 17</b><br>Words: attitude effectivement déviante, consistaient brûler voitures, quartier habitait effectivement, voitures quartier habitait, violences urbaines consistaient",
+        "<b>Topic 17</b><br>Words: policiers, septembre 1981, jeunes quartier, vaud-en-velin, émeute",
+        "<b>Topic 17</b><br>Words: nuit dernière 2h, partir policiers jeunes, grillé feux rouges, policiers prennent chasse, dernière 2h matin",
+        "<b>Topic 17</b><br>Words: vient remporter succès, idée émané curé, voire crimes racistes, pouvoir front national, lyon mois climat",
+        "<b>Topic 17</b><br>Words: fourgons, quartier montmousseau, 81, quartier minguettes, 1981",
+        "<b>Topic 17</b><br>Words: blessé nuit dernière, légèrement blessé nuit, explose immeuble 3, état 34 personnes, relogées parents amis"
+      ],
+      "marker": {
+        "color": "#D55E00"
+      },
+      "name": "17_incidents_forces ordre_émeutes_brûler...",
+      "orientation": "v",
+      "visible": "legendonly",
+      "x": {
+        "dtype": "i2",
+        "bdata": "vwfAB8EHwwfGB8cHyQfKB8wH0AfTB9QH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "wSCxic610D87x7PGikjaPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALCcd4JrG1j8AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALn6QUcFvvg/IdEKmwOJ5j80SIM0SIMEQIKodGTPQOQ/shM7sRM70z/sGMW5jlHcPwAAAAAAAAAAlR5ZEs/XxT8dpdtXVu/iP9UGydKoQ+A/AAAAAAAAAADgxaAi3FIDQBzHcRzHcew/y8otZUjOxT/iQs1JIC7kPxLaS2gvof0/"
+      },
+      "type": "bar"
+    }
+  ],
+  "layout": {
+    "template": {
+      "data": {
+        "barpolar": [
+          {
+            "marker": {
+              "line": {
+                "color": "white",
+                "width": 0.5
+              },
+              "pattern": {
+                "fillmode": "overlay",
+                "size": 10,
+                "solidity": 0.2
+              }
+            },
+            "type": "barpolar"
+          }
+        ],
+        "bar": [
+          {
+            "error_x": {
+              "color": "rgb(36,36,36)"
+            },
+            "error_y": {
+              "color": "rgb(36,36,36)"
+            },
+            "marker": {
+              "line": {
+                "color": "white",
+                "width": 0.5
+              },
+              "pattern": {
+                "fillmode": "overlay",
+                "size": 10,
+                "solidity": 0.2
+              }
+            },
+            "type": "bar"
+          }
+        ],
+        "carpet": [
+          {
+            "aaxis": {
+              "endlinecolor": "rgb(36,36,36)",
+              "gridcolor": "white",
+              "linecolor": "white",
+              "minorgridcolor": "white",
+              "startlinecolor": "rgb(36,36,36)"
+            },
+            "baxis": {
+              "endlinecolor": "rgb(36,36,36)",
+              "gridcolor": "white",
+              "linecolor": "white",
+              "minorgridcolor": "white",
+              "startlinecolor": "rgb(36,36,36)"
+            },
+            "type": "carpet"
+          }
+        ],
+        "choropleth": [
+          {
+            "colorbar": {
+              "outlinewidth": 1,
+              "tickcolor": "rgb(36,36,36)",
+              "ticks": "outside"
+            },
+            "type": "choropleth"
+          }
+        ],
+        "contourcarpet": [
+          {
+            "colorbar": {
+              "outlinewidth": 1,
+              "tickcolor": "rgb(36,36,36)",
+              "ticks": "outside"
+            },
+            "type": "contourcarpet"
+          }
+        ],
+        "contour": [
+          {
+            "colorbar": {
+              "outlinewidth": 1,
+              "tickcolor": "rgb(36,36,36)",
+              "ticks": "outside"
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#440154"
+              ],
+              [
+                0.1111111111111111,
+                "#482878"
+              ],
+              [
+                0.2222222222222222,
+                "#3e4989"
+              ],
+              [
+                0.3333333333333333,
+                "#31688e"
+              ],
+              [
+                0.4444444444444444,
+                "#26828e"
+              ],
+              [
+                0.5555555555555556,
+                "#1f9e89"
+              ],
+              [
+                0.6666666666666666,
+                "#35b779"
+              ],
+              [
+                0.7777777777777778,
+                "#6ece58"
+              ],
+              [
+                0.8888888888888888,
+                "#b5de2b"
+              ],
+              [
+                1.0,
+                "#fde725"
+              ]
+            ],
+            "type": "contour"
+          }
+        ],
+        "heatmap": [
+          {
+            "colorbar": {
+              "outlinewidth": 1,
+              "tickcolor": "rgb(36,36,36)",
+              "ticks": "outside"
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#440154"
+              ],
+              [
+                0.1111111111111111,
+                "#482878"
+              ],
+              [
+                0.2222222222222222,
+                "#3e4989"
+              ],
+              [
+                0.3333333333333333,
+                "#31688e"
+              ],
+              [
+                0.4444444444444444,
+                "#26828e"
+              ],
+              [
+                0.5555555555555556,
+                "#1f9e89"
+              ],
+              [
+                0.6666666666666666,
+                "#35b779"
+              ],
+              [
+                0.7777777777777778,
+                "#6ece58"
+              ],
+              [
+                0.8888888888888888,
+                "#b5de2b"
+              ],
+              [
+                1.0,
+                "#fde725"
+              ]
+            ],
+            "type": "heatmap"
+          }
+        ],
+        "histogram2dcontour": [
+          {
+            "colorbar": {
+              "outlinewidth": 1,
+              "tickcolor": "rgb(36,36,36)",
+              "ticks": "outside"
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#440154"
+              ],
+              [
+                0.1111111111111111,
+                "#482878"
+              ],
+              [
+                0.2222222222222222,
+                "#3e4989"
+              ],
+              [
+                0.3333333333333333,
+                "#31688e"
+              ],
+              [
+                0.4444444444444444,
+                "#26828e"
+              ],
+              [
+                0.5555555555555556,
+                "#1f9e89"
+              ],
+              [
+                0.6666666666666666,
+                "#35b779"
+              ],
+              [
+                0.7777777777777778,
+                "#6ece58"
+              ],
+              [
+                0.8888888888888888,
+                "#b5de2b"
+              ],
+              [
+                1.0,
+                "#fde725"
+              ]
+            ],
+            "type": "histogram2dcontour"
+          }
+        ],
+        "histogram2d": [
+          {
+            "colorbar": {
+              "outlinewidth": 1,
+              "tickcolor": "rgb(36,36,36)",
+              "ticks": "outside"
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#440154"
+              ],
+              [
+                0.1111111111111111,
+                "#482878"
+              ],
+              [
+                0.2222222222222222,
+                "#3e4989"
+              ],
+              [
+                0.3333333333333333,
+                "#31688e"
+              ],
+              [
+                0.4444444444444444,
+                "#26828e"
+              ],
+              [
+                0.5555555555555556,
+                "#1f9e89"
+              ],
+              [
+                0.6666666666666666,
+                "#35b779"
+              ],
+              [
+                0.7777777777777778,
+                "#6ece58"
+              ],
+              [
+                0.8888888888888888,
+                "#b5de2b"
+              ],
+              [
+                1.0,
+                "#fde725"
+              ]
+            ],
+            "type": "histogram2d"
+          }
+        ],
+        "histogram": [
+          {
+            "marker": {
+              "line": {
+                "color": "white",
+                "width": 0.6
+              }
+            },
+            "type": "histogram"
+          }
+        ],
+        "mesh3d": [
+          {
+            "colorbar": {
+              "outlinewidth": 1,
+              "tickcolor": "rgb(36,36,36)",
+              "ticks": "outside"
+            },
+            "type": "mesh3d"
+          }
+        ],
+        "parcoords": [
+          {
+            "line": {
+              "colorbar": {
+                "outlinewidth": 1,
+                "tickcolor": "rgb(36,36,36)",
+                "ticks": "outside"
+              }
+            },
+            "type": "parcoords"
+          }
+        ],
+        "pie": [
+          {
+            "automargin": true,
+            "type": "pie"
+          }
+        ],
+        "scatter3d": [
+          {
+            "line": {
+              "colorbar": {
+                "outlinewidth": 1,
+                "tickcolor": "rgb(36,36,36)",
+                "ticks": "outside"
+              }
+            },
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 1,
+                "tickcolor": "rgb(36,36,36)",
+                "ticks": "outside"
+              }
+            },
+            "type": "scatter3d"
+          }
+        ],
+        "scattercarpet": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 1,
+                "tickcolor": "rgb(36,36,36)",
+                "ticks": "outside"
+              }
+            },
+            "type": "scattercarpet"
+          }
+        ],
+        "scattergeo": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 1,
+                "tickcolor": "rgb(36,36,36)",
+                "ticks": "outside"
+              }
+            },
+            "type": "scattergeo"
+          }
+        ],
+        "scattergl": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 1,
+                "tickcolor": "rgb(36,36,36)",
+                "ticks": "outside"
+              }
+            },
+            "type": "scattergl"
+          }
+        ],
+        "scattermapbox": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 1,
+                "tickcolor": "rgb(36,36,36)",
+                "ticks": "outside"
+              }
+            },
+            "type": "scattermapbox"
+          }
+        ],
+        "scattermap": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 1,
+                "tickcolor": "rgb(36,36,36)",
+                "ticks": "outside"
+              }
+            },
+            "type": "scattermap"
+          }
+        ],
+        "scatterpolargl": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 1,
+                "tickcolor": "rgb(36,36,36)",
+                "ticks": "outside"
+              }
+            },
+            "type": "scatterpolargl"
+          }
+        ],
+        "scatterpolar": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 1,
+                "tickcolor": "rgb(36,36,36)",
+                "ticks": "outside"
+              }
+            },
+            "type": "scatterpolar"
+          }
+        ],
+        "scatter": [
+          {
+            "fillpattern": {
+              "fillmode": "overlay",
+              "size": 10,
+              "solidity": 0.2
+            },
+            "type": "scatter"
+          }
+        ],
+        "scatterternary": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 1,
+                "tickcolor": "rgb(36,36,36)",
+                "ticks": "outside"
+              }
+            },
+            "type": "scatterternary"
+          }
+        ],
+        "surface": [
+          {
+            "colorbar": {
+              "outlinewidth": 1,
+              "tickcolor": "rgb(36,36,36)",
+              "ticks": "outside"
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#440154"
+              ],
+              [
+                0.1111111111111111,
+                "#482878"
+              ],
+              [
+                0.2222222222222222,
+                "#3e4989"
+              ],
+              [
+                0.3333333333333333,
+                "#31688e"
+              ],
+              [
+                0.4444444444444444,
+                "#26828e"
+              ],
+              [
+                0.5555555555555556,
+                "#1f9e89"
+              ],
+              [
+                0.6666666666666666,
+                "#35b779"
+              ],
+              [
+                0.7777777777777778,
+                "#6ece58"
+              ],
+              [
+                0.8888888888888888,
+                "#b5de2b"
+              ],
+              [
+                1.0,
+                "#fde725"
+              ]
+            ],
+            "type": "surface"
+          }
+        ],
+        "table": [
+          {
+            "cells": {
+              "fill": {
+                "color": "rgb(237,237,237)"
+              },
+              "line": {
+                "color": "white"
+              }
+            },
+            "header": {
+              "fill": {
+                "color": "rgb(217,217,217)"
+              },
+              "line": {
+                "color": "white"
+              }
+            },
+            "type": "table"
+          }
+        ]
+      },
+      "layout": {
+        "annotationdefaults": {
+          "arrowhead": 0,
+          "arrowwidth": 1
+        },
+        "autotypenumbers": "strict",
+        "coloraxis": {
+          "colorbar": {
+            "outlinewidth": 1,
+            "tickcolor": "rgb(36,36,36)",
+            "ticks": "outside"
+          }
+        },
+        "colorscale": {
+          "diverging": [
+            [
+              0.0,
+              "rgb(103,0,31)"
+            ],
+            [
+              0.1,
+              "rgb(178,24,43)"
+            ],
+            [
+              0.2,
+              "rgb(214,96,77)"
+            ],
+            [
+              0.3,
+              "rgb(244,165,130)"
+            ],
+            [
+              0.4,
+              "rgb(253,219,199)"
+            ],
+            [
+              0.5,
+              "rgb(247,247,247)"
+            ],
+            [
+              0.6,
+              "rgb(209,229,240)"
+            ],
+            [
+              0.7,
+              "rgb(146,197,222)"
+            ],
+            [
+              0.8,
+              "rgb(67,147,195)"
+            ],
+            [
+              0.9,
+              "rgb(33,102,172)"
+            ],
+            [
+              1.0,
+              "rgb(5,48,97)"
+            ]
+          ],
+          "sequential": [
+            [
+              0.0,
+              "#440154"
+            ],
+            [
+              0.1111111111111111,
+              "#482878"
+            ],
+            [
+              0.2222222222222222,
+              "#3e4989"
+            ],
+            [
+              0.3333333333333333,
+              "#31688e"
+            ],
+            [
+              0.4444444444444444,
+              "#26828e"
+            ],
+            [
+              0.5555555555555556,
+              "#1f9e89"
+            ],
+            [
+              0.6666666666666666,
+              "#35b779"
+            ],
+            [
+              0.7777777777777778,
+              "#6ece58"
+            ],
+            [
+              0.8888888888888888,
+              "#b5de2b"
+            ],
+            [
+              1.0,
+              "#fde725"
+            ]
+          ],
+          "sequentialminus": [
+            [
+              0.0,
+              "#440154"
+            ],
+            [
+              0.1111111111111111,
+              "#482878"
+            ],
+            [
+              0.2222222222222222,
+              "#3e4989"
+            ],
+            [
+              0.3333333333333333,
+              "#31688e"
+            ],
+            [
+              0.4444444444444444,
+              "#26828e"
+            ],
+            [
+              0.5555555555555556,
+              "#1f9e89"
+            ],
+            [
+              0.6666666666666666,
+              "#35b779"
+            ],
+            [
+              0.7777777777777778,
+              "#6ece58"
+            ],
+            [
+              0.8888888888888888,
+              "#b5de2b"
+            ],
+            [
+              1.0,
+              "#fde725"
+            ]
+          ]
+        },
+        "colorway": [
+          "#1F77B4",
+          "#FF7F0E",
+          "#2CA02C",
+          "#D62728",
+          "#9467BD",
+          "#8C564B",
+          "#E377C2",
+          "#7F7F7F",
+          "#BCBD22",
+          "#17BECF"
+        ],
+        "font": {
+          "color": "rgb(36,36,36)"
+        },
+        "geo": {
+          "bgcolor": "white",
+          "lakecolor": "white",
+          "landcolor": "white",
+          "showlakes": true,
+          "showland": true,
+          "subunitcolor": "white"
+        },
+        "hoverlabel": {
+          "align": "left"
+        },
+        "hovermode": "closest",
+        "mapbox": {
+          "style": "light"
+        },
+        "paper_bgcolor": "white",
+        "plot_bgcolor": "white",
+        "polar": {
+          "angularaxis": {
+            "gridcolor": "rgb(232,232,232)",
+            "linecolor": "rgb(36,36,36)",
+            "showgrid": false,
+            "showline": true,
+            "ticks": "outside"
+          },
+          "bgcolor": "white",
+          "radialaxis": {
+            "gridcolor": "rgb(232,232,232)",
+            "linecolor": "rgb(36,36,36)",
+            "showgrid": false,
+            "showline": true,
+            "ticks": "outside"
+          }
+        },
+        "scene": {
+          "xaxis": {
+            "backgroundcolor": "white",
+            "gridcolor": "rgb(232,232,232)",
+            "gridwidth": 2,
+            "linecolor": "rgb(36,36,36)",
+            "showbackground": true,
+            "showgrid": false,
+            "showline": true,
+            "ticks": "outside",
+            "zeroline": false,
+            "zerolinecolor": "rgb(36,36,36)"
+          },
+          "yaxis": {
+            "backgroundcolor": "white",
+            "gridcolor": "rgb(232,232,232)",
+            "gridwidth": 2,
+            "linecolor": "rgb(36,36,36)",
+            "showbackground": true,
+            "showgrid": false,
+            "showline": true,
+            "ticks": "outside",
+            "zeroline": false,
+            "zerolinecolor": "rgb(36,36,36)"
+          },
+          "zaxis": {
+            "backgroundcolor": "white",
+            "gridcolor": "rgb(232,232,232)",
+            "gridwidth": 2,
+            "linecolor": "rgb(36,36,36)",
+            "showbackground": true,
+            "showgrid": false,
+            "showline": true,
+            "ticks": "outside",
+            "zeroline": false,
+            "zerolinecolor": "rgb(36,36,36)"
+          }
+        },
+        "shapedefaults": {
+          "fillcolor": "black",
+          "line": {
+            "width": 0
+          },
+          "opacity": 0.3
+        },
+        "ternary": {
+          "aaxis": {
+            "gridcolor": "rgb(232,232,232)",
+            "linecolor": "rgb(36,36,36)",
+            "showgrid": false,
+            "showline": true,
+            "ticks": "outside"
+          },
+          "baxis": {
+            "gridcolor": "rgb(232,232,232)",
+            "linecolor": "rgb(36,36,36)",
+            "showgrid": false,
+            "showline": true,
+            "ticks": "outside"
+          },
+          "bgcolor": "white",
+          "caxis": {
+            "gridcolor": "rgb(232,232,232)",
+            "linecolor": "rgb(36,36,36)",
+            "showgrid": false,
+            "showline": true,
+            "ticks": "outside"
+          }
+        },
+        "title": {
+          "x": 0.05
+        },
+        "xaxis": {
+          "automargin": true,
+          "gridcolor": "rgb(232,232,232)",
+          "linecolor": "rgb(36,36,36)",
+          "showgrid": false,
+          "showline": true,
+          "ticks": "outside",
+          "title": {
+            "standoff": 15
+          },
+          "zeroline": false,
+          "zerolinecolor": "rgb(36,36,36)"
+        },
+        "yaxis": {
+          "automargin": true,
+          "gridcolor": "rgb(232,232,232)",
+          "linecolor": "rgb(36,36,36)",
+          "showgrid": false,
+          "showline": true,
+          "ticks": "outside",
+          "title": {
+            "standoff": 15
+          },
+          "zeroline": false,
+          "zerolinecolor": "rgb(36,36,36)"
+        }
+      }
+    },
+    "xaxis": {
+      "showgrid": true,
+      "title": {
+        "text": "Année"
+      },
+      "dtick": "Y1",
+      "tickangle": 45
+    },
+    "yaxis": {
+      "showgrid": true,
+      "title": {
+        "text": "Proportion du topic"
+      },
+      "automargin": true
+    },
+    "title": {
+      "font": {
+        "size": 22,
+        "color": "Black"
+      },
+      "text": "Topic proportion per year<br><span style=\"font-size: 12pt;\">(Percentage of documents assigned to topic T for year Y)</span><br><span style=\"font-size: 12pt;\">Parameters : chunk_lgc_token, 64 components / 145 neighbors / 78 docs min per cluster</span>",
+      "y": 0.95,
+      "x": 0.4,
+      "xanchor": "center",
+      "yanchor": "top"
+    },
+    "hoverlabel": {
+      "font": {
+        "size": 16,
+        "family": "Rockwell"
+      },
+      "bgcolor": "white"
+    },
+    "width": 1250,
+    "height": 900,
+    "legend": {
+      "title": {
+        "text": "<b>Global Topic Representation"
+      }
+    },
+    "margin": {
+      "t": 120,
+      "l": 80,
+      "r": 320,
+      "b": 60
+    }
+  }
+}
