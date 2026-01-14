@@ -113,10 +113,23 @@
             margin: 20px 0;
             display: none;
         }
+        .fig-toggle-btn {
+            border: 1px solid #cfcfcf;
+            background: white;
+            padding: 6px 12px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-weight: 600;
+        }
+        .fig-toggle-btn:hover { background: #f0f8ff; }
     </style>
 </head>
 <body>
     <div id="container">
+        <div class="btn-group" style="margin-bottom:12px; display:flex; gap:8px;">
+            <button id="btn-28" class="fig-toggle-btn" data-key="28">28 topics</button>
+            <button id="btn-19" class="fig-toggle-btn" data-key="19">19 topics</button>
+        </div>
         <div id="loading">
             <div class="spinner"></div>
             <p>Loading chart and data...</p>
@@ -129,34 +142,47 @@
     </div>
 
     <script>
-        // Configuration - UPDATE THIS URL TO YOUR ACTUAL GITHUB PAGES URL
+        // Configuration - update these URLs to where you'll host data (GitHub Pages etc.)
+        const FIG_OPTIONS = {
+            '28': {
+                // example placeholders — replace with your real URLs
+                figDataUrl: 'https://inalelab.github.io/marche83/figs/fig_data/figdata_dynamic_28.json',
+                reprMapUrl: 'https://inalelab.github.io/marche83/figs/fig_data/repr_map_28.json'
+            },
+            '19': {
+                figDataUrl: 'https://inalelab.github.io/marche83/figs/fig_data/figdata_dynamic_19.json',
+                reprMapUrl: 'https://inalelab.github.io/marche83/figs/fig_data/repr_map_19.json'
+            }
+        };
+
+        // default metadata URL (keeps backward compatibility)
         const REPR_MAP_URL = 'https://inalelab.github.io/marche83/figs/fig_data/repr_map.json';
-        
+
         // State management
         let reprMap = {};
         let lastClick = { topic: null, year: null, time: 0 };
         let isRendering = false;
+        // Generic JSON fetch helper
+        async function loadJson(url) {
+            const resp = await fetch(url);
+            if (!resp.ok) throw new Error(`HTTP ${resp.status} while fetching ${url}`);
+            return resp.json();
+        }
 
-        // Load the repr_map data
-        async function loadReprMap() {
+        // Load the repr_map data (optionally from a provided url)
+        async function loadReprMap(url = REPR_MAP_URL) {
             try {
-                const response = await fetch(REPR_MAP_URL);
-                if (!response.ok) {
-                    throw new Error(`HTTP error! status: ${response.status}`);
-                }
-                const data = await response.json();
-                
-                // Convert string keys back to lookups
+                const data = await loadJson(url);
                 reprMap = data;
-                
-                console.log(`Loaded repr_map with ${Object.keys(reprMap).length} entries`);
+                console.log(`Loaded repr_map from ${url} with ${Object.keys(reprMap).length} entries`);
+                document.getElementById('error').style.display = 'none';
                 return true;
             } catch (error) {
                 console.error('Error loading repr_map:', error);
                 document.getElementById('error').style.display = 'block';
                 document.getElementById('error').innerHTML = 
-                    `<strong>Failed to load data</strong><br>` +
-                    `URL: ${REPR_MAP_URL}<br>` +
+                    `<strong>Failed to load repr_map</strong><br>` +
+                    `URL: ${url}<br>` +
                     `Error: ${error.message}<br><br>` +
                     `Please check that the file is accessible and CORS is enabled.`;
                 return false;
@@ -261,6 +287,105 @@
             return out;
         }
 
+        // Load figData exported as JSON (same format as the embedded `figData` variable)
+        async function loadFigData(url) {
+            try {
+                const data = await loadJson(url);
+                // decode any typed-array fields in returned traces
+                if (data && data.data) {
+                    data.data.forEach(trace => {
+                        if (trace.x && typeof trace.x === 'object' && trace.x.bdata) trace.x = decodeTypedArray(trace.x);
+                        if (trace.y && typeof trace.y === 'object' && trace.y.bdata) trace.y = decodeTypedArray(trace.y);
+                    });
+                }
+                return data;
+            } catch (err) {
+                console.error('Error loading figData from', url, err);
+                throw err;
+            }
+        }
+
+        // UI helpers to mark active button
+        function setActiveButton(key) {
+            document.querySelectorAll('.fig-toggle-btn').forEach(b => {
+                b.style.background = '';
+                b.style.color = '';
+            });
+            const btn = document.querySelector(`.fig-toggle-btn[data-key="${key}"]`);
+            if (btn) {
+                btn.style.background = '#0072B2';
+                btn.style.color = 'white';
+            }
+        }
+
+        // Switch between figures: fetch both figData and repr_map and re-render
+        async function switchFigure(key) {
+            const opt = FIG_OPTIONS[key];
+            if (!opt) {
+                console.warn('Unknown figure option:', key);
+                return;
+            }
+
+            document.getElementById('loading').style.display = 'block';
+            document.getElementById('error').style.display = 'none';
+            setActiveButton(key);
+
+            // Load repr_map and figData in parallel
+            try {
+                const [reprOk, figData] = await Promise.all([
+                    loadReprMap(opt.reprMapUrl).catch(e => { console.warn(e); return false; }),
+                    loadFigData(opt.figDataUrl).catch(e => { console.warn(e); return null; })
+                ]);
+
+                if (!reprOk) {
+                    // repr_map failed but maybe earlier reprMap is available; still continue
+                    console.warn('repr_map failed to load for option', key);
+                }
+
+                if (!figData) {
+                    // figData failed to load — show error but keep current plot
+                    document.getElementById('error').style.display = 'block';
+                    document.getElementById('error').innerHTML = `<strong>Failed to load figData</strong><br>URL: ${opt.figDataUrl}`;
+                    document.getElementById('loading').style.display = 'none';
+                    return;
+                }
+
+                // attach meta and decode done in loadFigData
+                figData.data.forEach(trace => {
+                    if (trace.type === 'bar') {
+                        const topicId = extractTopicId(trace.name || '');
+                        trace.meta = { topic_id: topicId };
+                    }
+                });
+
+                const config = {
+                    responsive: true,
+                    displayModeBar: true,
+                    displaylogo: false,
+                    modeBarButtonsToRemove: ['lasso2d', 'select2d']
+                };
+
+                // Use Plotly.react to update existing plot if present
+                const chart = document.getElementById('plotly-chart');
+                if (chart.data && chart.data.length) {
+                    Plotly.react('plotly-chart', figData.data, figData.layout, config);
+                } else {
+                    Plotly.newPlot('plotly-chart', figData.data, figData.layout, config);
+                }
+
+                // Ensure click handler is attached
+                chart.on('plotly_click', handlePlotClick);
+
+                document.getElementById('loading').style.display = 'none';
+                console.log(`Switched to figure ${key}`);
+            } catch (err) {
+                console.error('Error switching figure:', err);
+                document.getElementById('error').style.display = 'block';
+                document.getElementById('error').innerHTML = `<strong>Failed to switch figure</strong><br>${err.message}`;
+                document.getElementById('loading').style.display = 'none';
+            }
+        }
+
         // Handle click on chart
         function handlePlotClick(data) {
             if (isRendering) return;
@@ -305,8 +430,16 @@
 
         // Initialize the chart
         async function initChart() {
-            // First load the data
-            const dataLoaded = await loadReprMap();
+            // Wire UI: buttons to switch figures
+            document.querySelectorAll('.fig-toggle-btn').forEach(btn => {
+                btn.addEventListener('click', () => switchFigure(btn.dataset.key));
+            });
+            // Mark default selection (28) visually
+            setActiveButton('28');
+
+            // First load the metadata for the default figure if available
+            const defaultReprUrl = FIG_OPTIONS['28'] ? FIG_OPTIONS['28'].reprMapUrl : REPR_MAP_URL;
+            const dataLoaded = await loadReprMap(defaultReprUrl);
             
             if (!dataLoaded) {
                 document.getElementById('loading').style.display = 'none';
