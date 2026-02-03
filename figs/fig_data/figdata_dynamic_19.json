@@ -1581,7 +1581,7 @@
       "bgcolor": "white"
     },
     "width": 1250,
-    "height": 500,
+    "height": 600,
     "legend": {
       "title": {
         "text": "<b>Global Topic Representation"

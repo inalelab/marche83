@@ -22,7 +22,7 @@
         }
         #plotly-chart {
             width: 100%;
-            height: 500px;
+            height: 600px;
             margin-bottom: 20px;
             padding-bottom: 0px;
             overflow: visible !important;
@@ -455,6 +455,8 @@
                     if (trace.y && typeof trace.y === 'object' && trace.y.bdata) trace.y = decodeTypedArray(trace.y);
                 });
             }
+            // fix the layout size
+            if (figData.layout) figData.layout.height = 600;
             // Extract topic IDs and attach as meta to each trace
             if (figData.data) {
                 figData.data.forEach(trace => {
